@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 1520284059
+    locked: 0
+  - name: Wall
+    uniqueID: 84650495
+    locked: 0
+  - name: Ornaments
+    uniqueID: 1037016453
+    locked: 0
+  - name: Ornaments2
+    uniqueID: 1744170739
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

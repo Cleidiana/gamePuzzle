@@ -17,10 +17,10 @@ public class TimeUI : MonoBehaviour {
         if (contagem > 0.0f)
         {
             contagem -= Time.deltaTime;
-            displayCont.text = contagem.ToString("F");
+            displayCont.text = contagem.ToString("0");
         }
         else {
-            displayCont.text = "Acabou o tempo!!";
+            displayCont.text = "0";
                 
         }
 	}

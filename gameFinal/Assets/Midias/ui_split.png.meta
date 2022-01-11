@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 176405aca7356ad4cb394c4b90123e91
-timeCreated: 1638146061
+timeCreated: 1641688884
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -17,6 +17,10 @@ TextureImporter:
     21300020: ui_split_10
     21300022: ui_split_11
     21300024: ui_split_12
+    21300026: ui_split_13
+    21300028: ui_split_14
+    21300030: ui_split_15
+    21300032: ui_split_16
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -266,6 +270,62 @@ TextureImporter:
         y: 290
         width: 33
         height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_split_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_split_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 185
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_split_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_split_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 201
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

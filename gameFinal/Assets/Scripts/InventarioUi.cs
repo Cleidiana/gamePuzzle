@@ -11,7 +11,7 @@ public class InventarioUi : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Inventario.instance.ItemAlteradoE += UiMetodo;
-        //slots = bag.GetComponentInChildren<InventarioSlot>();
+        slots = bag.GetComponentsInChildren<InventarioSlot>();
     }
     void UiMetodo() {
 

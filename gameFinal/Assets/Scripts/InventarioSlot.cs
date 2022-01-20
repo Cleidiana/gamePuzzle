@@ -30,4 +30,10 @@ public class InventarioSlot : MonoBehaviour {
             item.Usar();
         }
     }
+
+    private void Start()
+    {
+        removeBtn = transform.GetChild(0).GetComponent<Button>();
+        iconeSlot = transform.GetChild(1).GetComponent<Image>();
+    }
 }

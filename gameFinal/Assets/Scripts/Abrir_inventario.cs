@@ -15,7 +15,6 @@ public class Abrir_inventario : MonoBehaviour {
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        print("oi");
         inventario.SetActive(true);
         botaoSair.SetActive(true);
     }

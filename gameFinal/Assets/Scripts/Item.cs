@@ -6,10 +6,11 @@ using UnityEngine;
 
 public class Item : MonoBehaviour {
 
+    public string nome;
     public Sprite icone;
 
     public virtual void Usar() {
-
+        Debug.Log("Usando" + nome);
     }
 
     public void removeI() {

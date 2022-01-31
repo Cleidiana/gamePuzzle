@@ -90,7 +90,7 @@ Grid:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1609918223239006}
   m_Enabled: 1
-  m_CellSize: {x: 1, y: 1, z: 0}
+  m_CellSize: {x: 0.6666667, y: 0.6666667, z: 0}
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
@@ -156,7 +156,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 1.2116573
+      m_AnimationSpeed: 2.522068
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -212,4 +212,4 @@ Tilemap:
     e33: 1
   m_TileRefreshArray:
   - serializedVersion: 1
-    m_DirtyIndex: 6
+    m_DirtyIndex: 0

@@ -23,7 +23,6 @@ GameObject:
   - component: {fileID: 114524472725190346}
   - component: {fileID: 114384650680563210}
   - component: {fileID: 114123311650218240}
-  - component: {fileID: 114925968507961348}
   m_Layer: 5
   m_Name: HW 1
   m_TagString: Untagged
@@ -59,7 +58,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8c728de53be69149bfe2ce4bc35433e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 114925968507961348}
+  item: {fileID: 11400000, guid: 6a6f22b9286555b4780394916c365c83, type: 2}
   foiPego: 0
 --- !u!114 &114272333524690104
 MonoBehaviour:
@@ -80,7 +79,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300024, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -167,19 +166,6 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
---- !u!114 &114925968507961348
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1436010288595000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 257d195177521f646826a8ddc14e1d6a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nome: Teste
-  icone: {fileID: 0}
 --- !u!222 &222269386473582560
 CanvasRenderer:
   m_ObjectHideFlags: 1
@@ -200,7 +186,7 @@ RectTransform:
   m_GameObject: {fileID: 1436010288595000}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.000015258789, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.9999949, y: 0.999995, z: 0.9999961}
   m_Children:
   - {fileID: 224331130078540514}
   m_Father: {fileID: 0}

@@ -30,6 +30,7 @@ public class Programacao : MonoBehaviour {
         textoOut.SetActive(true);
         textoInput.SetActive(true);
         build.SetActive(true);
+        Movimento_personagem.instance.SetVelocidade(0);
     }
 
 }

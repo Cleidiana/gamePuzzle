@@ -17,6 +17,15 @@ public class Movimento_personagem : MonoBehaviour
     private bool danoCritico = false;
 
     // Use this for initialization
+    public static Movimento_personagem instance;
+
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+    }
     void Start()
     {
         movimento = Vector2.zero;
@@ -53,6 +62,10 @@ public class Movimento_personagem : MonoBehaviour
     {
         playerR.color = Color.Lerp(Color.white, Color.red, Mathf.PingPong(x * Time.time, 0.5f));
 
+    }
+    public void SetVelocidade(float x)
+    {
+        vel = x;
     }
     private void FixedUpdate()
     {

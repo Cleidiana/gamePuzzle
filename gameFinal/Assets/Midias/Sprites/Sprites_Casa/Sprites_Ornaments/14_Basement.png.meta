@@ -1,415 +1,1221 @@
 fileFormatVersion: 2
 guid: 667a8fede0e05f5439060d46e6c167b1
-timeCreated: 1639633483
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: 14_Basement_0
-    21300002: 14_Basement_1
-    21300004: 14_Basement_2
-    21300006: 14_Basement_3
-    21300008: 14_Basement_4
-    21300010: 14_Basement_5
-    21300012: 14_Basement_6
-    21300014: 14_Basement_7
-    21300016: 14_Basement_8
-    21300018: 14_Basement_9
-    21300020: 14_Basement_10
-    21300022: 14_Basement_11
-    21300024: 14_Basement_12
-    21300026: 14_Basement_13
-    21300028: 14_Basement_14
-    21300030: 14_Basement_15
-    21300032: 14_Basement_16
-    21300034: 14_Basement_17
-    21300036: 14_Basement_18
-    21300038: 14_Basement_19
-    21300040: 14_Basement_20
-    21300042: 14_Basement_21
-    21300044: 14_Basement_22
-    21300046: 14_Basement_23
-    21300048: 14_Basement_24
-    21300050: 14_Basement_25
-    21300052: 14_Basement_26
-    21300054: 14_Basement_27
-    21300056: 14_Basement_28
-    21300058: 14_Basement_29
-    21300060: 14_Basement_30
-    21300062: 14_Basement_31
-    21300064: 14_Basement_32
-    21300066: 14_Basement_33
-    21300068: 14_Basement_34
-    21300070: 14_Basement_35
-    21300072: 14_Basement_36
-    21300074: 14_Basement_37
-    21300076: 14_Basement_38
-    21300078: 14_Basement_39
-    21300080: 14_Basement_40
-    21300082: 14_Basement_41
-    21300084: 14_Basement_42
-    21300086: 14_Basement_43
-    21300088: 14_Basement_44
-    21300090: 14_Basement_45
-    21300092: 14_Basement_46
-    21300094: 14_Basement_47
-    21300096: 14_Basement_48
-    21300098: 14_Basement_49
-    21300100: 14_Basement_50
-    21300102: 14_Basement_51
-    21300104: 14_Basement_52
-    21300106: 14_Basement_53
-    21300108: 14_Basement_54
-    21300110: 14_Basement_55
-    21300112: 14_Basement_56
-    21300114: 14_Basement_57
-    21300116: 14_Basement_58
-    21300118: 14_Basement_59
-    21300120: 14_Basement_60
-    21300122: 14_Basement_61
-    21300124: 14_Basement_62
-    21300126: 14_Basement_63
-    21300128: 14_Basement_64
-    21300130: 14_Basement_65
-    21300132: 14_Basement_66
-    21300134: 14_Basement_67
-    21300136: 14_Basement_68
-    21300138: 14_Basement_69
-    21300140: 14_Basement_70
-    21300142: 14_Basement_71
-    21300144: 14_Basement_72
-    21300146: 14_Basement_73
-    21300148: 14_Basement_74
-    21300150: 14_Basement_75
-    21300152: 14_Basement_76
-    21300154: 14_Basement_77
-    21300156: 14_Basement_78
-    21300158: 14_Basement_79
-    21300160: 14_Basement_80
-    21300162: 14_Basement_81
-    21300164: 14_Basement_82
-    21300166: 14_Basement_83
-    21300168: 14_Basement_84
-    21300170: 14_Basement_85
-    21300172: 14_Basement_86
-    21300174: 14_Basement_87
-    21300176: 14_Basement_88
-    21300178: 14_Basement_89
-    21300180: 14_Basement_90
-    21300182: 14_Basement_91
-    21300184: 14_Basement_92
-    21300186: 14_Basement_93
-    21300188: 14_Basement_94
-    21300190: 14_Basement_95
-    21300192: 14_Basement_96
-    21300194: 14_Basement_97
-    21300196: 14_Basement_98
-    21300198: 14_Basement_99
-    21300200: 14_Basement_100
-    21300202: 14_Basement_101
-    21300204: 14_Basement_102
-    21300206: 14_Basement_103
-    21300208: 14_Basement_104
-    21300210: 14_Basement_105
-    21300212: 14_Basement_106
-    21300214: 14_Basement_107
-    21300216: 14_Basement_108
-    21300218: 14_Basement_109
-    21300220: 14_Basement_110
-    21300222: 14_Basement_111
-    21300224: 14_Basement_112
-    21300226: 14_Basement_113
-    21300228: 14_Basement_114
-    21300230: 14_Basement_115
-    21300232: 14_Basement_116
-    21300234: 14_Basement_117
-    21300236: 14_Basement_118
-    21300238: 14_Basement_119
-    21300240: 14_Basement_120
-    21300242: 14_Basement_121
-    21300244: 14_Basement_122
-    21300246: 14_Basement_123
-    21300248: 14_Basement_124
-    21300250: 14_Basement_125
-    21300252: 14_Basement_126
-    21300254: 14_Basement_127
-    21300256: 14_Basement_128
-    21300258: 14_Basement_129
-    21300260: 14_Basement_130
-    21300262: 14_Basement_131
-    21300264: 14_Basement_132
-    21300266: 14_Basement_133
-    21300268: 14_Basement_134
-    21300270: 14_Basement_135
-    21300272: 14_Basement_136
-    21300274: 14_Basement_137
-    21300276: 14_Basement_138
-    21300278: 14_Basement_139
-    21300280: 14_Basement_140
-    21300282: 14_Basement_141
-    21300284: 14_Basement_142
-    21300286: 14_Basement_143
-    21300288: 14_Basement_144
-    21300290: 14_Basement_145
-    21300292: 14_Basement_146
-    21300294: 14_Basement_147
-    21300296: 14_Basement_148
-    21300298: 14_Basement_149
-    21300300: 14_Basement_150
-    21300302: 14_Basement_151
-    21300304: 14_Basement_152
-    21300306: 14_Basement_153
-    21300308: 14_Basement_154
-    21300310: 14_Basement_155
-    21300312: 14_Basement_156
-    21300314: 14_Basement_157
-    21300316: 14_Basement_158
-    21300318: 14_Basement_159
-    21300320: 14_Basement_160
-    21300322: 14_Basement_161
-    21300324: 14_Basement_162
-    21300326: 14_Basement_163
-    21300328: 14_Basement_164
-    21300330: 14_Basement_165
-    21300332: 14_Basement_166
-    21300334: 14_Basement_167
-    21300336: 14_Basement_168
-    21300338: 14_Basement_169
-    21300340: 14_Basement_170
-    21300342: 14_Basement_171
-    21300344: 14_Basement_172
-    21300346: 14_Basement_173
-    21300348: 14_Basement_174
-    21300350: 14_Basement_175
-    21300352: 14_Basement_176
-    21300354: 14_Basement_177
-    21300356: 14_Basement_178
-    21300358: 14_Basement_179
-    21300360: 14_Basement_180
-    21300362: 14_Basement_181
-    21300364: 14_Basement_182
-    21300366: 14_Basement_183
-    21300368: 14_Basement_184
-    21300370: 14_Basement_185
-    21300372: 14_Basement_186
-    21300374: 14_Basement_187
-    21300376: 14_Basement_188
-    21300378: 14_Basement_189
-    21300380: 14_Basement_190
-    21300382: 14_Basement_191
-    21300384: 14_Basement_192
-    21300386: 14_Basement_193
-    21300388: 14_Basement_194
-    21300390: 14_Basement_195
-    21300392: 14_Basement_196
-    21300394: 14_Basement_197
-    21300396: 14_Basement_198
-    21300398: 14_Basement_199
-    21300400: 14_Basement_200
-    21300402: 14_Basement_201
-    21300404: 14_Basement_202
-    21300406: 14_Basement_203
-    21300408: 14_Basement_204
-    21300410: 14_Basement_205
-    21300412: 14_Basement_206
-    21300414: 14_Basement_207
-    21300416: 14_Basement_208
-    21300418: 14_Basement_209
-    21300420: 14_Basement_210
-    21300422: 14_Basement_211
-    21300424: 14_Basement_212
-    21300426: 14_Basement_213
-    21300428: 14_Basement_214
-    21300430: 14_Basement_215
-    21300432: 14_Basement_216
-    21300434: 14_Basement_217
-    21300436: 14_Basement_218
-    21300438: 14_Basement_219
-    21300440: 14_Basement_220
-    21300442: 14_Basement_221
-    21300444: 14_Basement_222
-    21300446: 14_Basement_223
-    21300448: 14_Basement_224
-    21300450: 14_Basement_225
-    21300452: 14_Basement_226
-    21300454: 14_Basement_227
-    21300456: 14_Basement_228
-    21300458: 14_Basement_229
-    21300460: 14_Basement_230
-    21300462: 14_Basement_231
-    21300464: 14_Basement_232
-    21300466: 14_Basement_233
-    21300468: 14_Basement_234
-    21300470: 14_Basement_235
-    21300472: 14_Basement_236
-    21300474: 14_Basement_237
-    21300476: 14_Basement_238
-    21300478: 14_Basement_239
-    21300480: 14_Basement_240
-    21300482: 14_Basement_241
-    21300484: 14_Basement_242
-    21300486: 14_Basement_243
-    21300488: 14_Basement_244
-    21300490: 14_Basement_245
-    21300492: 14_Basement_246
-    21300494: 14_Basement_247
-    21300496: 14_Basement_248
-    21300498: 14_Basement_249
-    21300500: 14_Basement_250
-    21300502: 14_Basement_251
-    21300504: 14_Basement_252
-    21300506: 14_Basement_253
-    21300508: 14_Basement_254
-    21300510: 14_Basement_255
-    21300512: 14_Basement_256
-    21300514: 14_Basement_257
-    21300516: 14_Basement_258
-    21300518: 14_Basement_259
-    21300520: 14_Basement_260
-    21300522: 14_Basement_261
-    21300524: 14_Basement_262
-    21300526: 14_Basement_263
-    21300528: 14_Basement_264
-    21300530: 14_Basement_265
-    21300532: 14_Basement_266
-    21300534: 14_Basement_267
-    21300536: 14_Basement_268
-    21300538: 14_Basement_269
-    21300540: 14_Basement_270
-    21300542: 14_Basement_271
-    21300544: 14_Basement_272
-    21300546: 14_Basement_273
-    21300548: 14_Basement_274
-    21300550: 14_Basement_275
-    21300552: 14_Basement_276
-    21300554: 14_Basement_277
-    21300556: 14_Basement_278
-    21300558: 14_Basement_279
-    21300560: 14_Basement_280
-    21300562: 14_Basement_281
-    21300564: 14_Basement_282
-    21300566: 14_Basement_283
-    21300568: 14_Basement_284
-    21300570: 14_Basement_285
-    21300572: 14_Basement_286
-    21300574: 14_Basement_287
-    21300576: 14_Basement_288
-    21300578: 14_Basement_289
-    21300580: 14_Basement_290
-    21300582: 14_Basement_291
-    21300584: 14_Basement_292
-    21300586: 14_Basement_293
-    21300588: 14_Basement_294
-    21300590: 14_Basement_295
-    21300592: 14_Basement_296
-    21300594: 14_Basement_297
-    21300596: 14_Basement_298
-    21300598: 14_Basement_299
-    21300600: 14_Basement_300
-    21300602: 14_Basement_301
-    21300604: 14_Basement_302
-    21300606: 14_Basement_303
-    21300608: 14_Basement_304
-    21300610: 14_Basement_305
-    21300612: 14_Basement_306
-    21300614: 14_Basement_307
-    21300616: 14_Basement_308
-    21300618: 14_Basement_309
-    21300620: 14_Basement_310
-    21300622: 14_Basement_311
-    21300624: 14_Basement_312
-    21300626: 14_Basement_313
-    21300628: 14_Basement_314
-    21300630: 14_Basement_315
-    21300632: 14_Basement_316
-    21300634: 14_Basement_317
-    21300636: 14_Basement_318
-    21300638: 14_Basement_319
-    21300640: 14_Basement_320
-    21300642: 14_Basement_321
-    21300644: 14_Basement_322
-    21300646: 14_Basement_323
-    21300648: 14_Basement_324
-    21300650: 14_Basement_325
-    21300652: 14_Basement_326
-    21300654: 14_Basement_327
-    21300656: 14_Basement_328
-    21300658: 14_Basement_329
-    21300660: 14_Basement_330
-    21300662: 14_Basement_331
-    21300664: 14_Basement_332
-    21300666: 14_Basement_333
-    21300668: 14_Basement_334
-    21300670: 14_Basement_335
-    21300672: 14_Basement_336
-    21300674: 14_Basement_337
-    21300676: 14_Basement_338
-    21300678: 14_Basement_339
-    21300680: 14_Basement_340
-    21300682: 14_Basement_341
-    21300684: 14_Basement_342
-    21300686: 14_Basement_343
-    21300688: 14_Basement_344
-    21300690: 14_Basement_345
-    21300692: 14_Basement_346
-    21300694: 14_Basement_347
-    21300696: 14_Basement_348
-    21300698: 14_Basement_349
-    21300700: 14_Basement_350
-    21300702: 14_Basement_351
-    21300704: 14_Basement_352
-    21300706: 14_Basement_353
-    21300708: 14_Basement_354
-    21300710: 14_Basement_355
-    21300712: 14_Basement_356
-    21300714: 14_Basement_357
-    21300716: 14_Basement_358
-    21300718: 14_Basement_359
-    21300720: 14_Basement_360
-    21300722: 14_Basement_361
-    21300724: 14_Basement_362
-    21300726: 14_Basement_363
-    21300728: 14_Basement_364
-    21300730: 14_Basement_365
-    21300732: 14_Basement_366
-    21300734: 14_Basement_367
-    21300736: 14_Basement_368
-    21300738: 14_Basement_369
-    21300740: 14_Basement_370
-    21300742: 14_Basement_371
-    21300744: 14_Basement_372
-    21300746: 14_Basement_373
-    21300748: 14_Basement_374
-    21300750: 14_Basement_375
-    21300752: 14_Basement_376
-    21300754: 14_Basement_377
-    21300756: 14_Basement_378
-    21300758: 14_Basement_379
-    21300760: 14_Basement_380
-    21300762: 14_Basement_381
-    21300764: 14_Basement_382
-    21300766: 14_Basement_383
-    21300768: 14_Basement_384
-    21300770: 14_Basement_385
-    21300772: 14_Basement_386
-    21300774: 14_Basement_387
-    21300776: 14_Basement_388
-    21300778: 14_Basement_389
-    21300780: 14_Basement_390
-    21300782: 14_Basement_391
-    21300784: 14_Basement_392
-    21300786: 14_Basement_393
-    21300788: 14_Basement_394
-    21300790: 14_Basement_395
-    21300792: 14_Basement_396
-    21300794: 14_Basement_397
-    21300796: 14_Basement_398
-    21300798: 14_Basement_399
-    21300800: 14_Basement_400
-    21300802: 14_Basement_401
-    21300804: 14_Basement_402
-    21300806: 14_Basement_403
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 14_Basement_0
+  - first:
+      213: 21300002
+    second: 14_Basement_1
+  - first:
+      213: 21300004
+    second: 14_Basement_2
+  - first:
+      213: 21300006
+    second: 14_Basement_3
+  - first:
+      213: 21300008
+    second: 14_Basement_4
+  - first:
+      213: 21300010
+    second: 14_Basement_5
+  - first:
+      213: 21300012
+    second: 14_Basement_6
+  - first:
+      213: 21300014
+    second: 14_Basement_7
+  - first:
+      213: 21300016
+    second: 14_Basement_8
+  - first:
+      213: 21300018
+    second: 14_Basement_9
+  - first:
+      213: 21300020
+    second: 14_Basement_10
+  - first:
+      213: 21300022
+    second: 14_Basement_11
+  - first:
+      213: 21300024
+    second: 14_Basement_12
+  - first:
+      213: 21300026
+    second: 14_Basement_13
+  - first:
+      213: 21300028
+    second: 14_Basement_14
+  - first:
+      213: 21300030
+    second: 14_Basement_15
+  - first:
+      213: 21300032
+    second: 14_Basement_16
+  - first:
+      213: 21300034
+    second: 14_Basement_17
+  - first:
+      213: 21300036
+    second: 14_Basement_18
+  - first:
+      213: 21300038
+    second: 14_Basement_19
+  - first:
+      213: 21300040
+    second: 14_Basement_20
+  - first:
+      213: 21300042
+    second: 14_Basement_21
+  - first:
+      213: 21300044
+    second: 14_Basement_22
+  - first:
+      213: 21300046
+    second: 14_Basement_23
+  - first:
+      213: 21300048
+    second: 14_Basement_24
+  - first:
+      213: 21300050
+    second: 14_Basement_25
+  - first:
+      213: 21300052
+    second: 14_Basement_26
+  - first:
+      213: 21300054
+    second: 14_Basement_27
+  - first:
+      213: 21300056
+    second: 14_Basement_28
+  - first:
+      213: 21300058
+    second: 14_Basement_29
+  - first:
+      213: 21300060
+    second: 14_Basement_30
+  - first:
+      213: 21300062
+    second: 14_Basement_31
+  - first:
+      213: 21300064
+    second: 14_Basement_32
+  - first:
+      213: 21300066
+    second: 14_Basement_33
+  - first:
+      213: 21300068
+    second: 14_Basement_34
+  - first:
+      213: 21300070
+    second: 14_Basement_35
+  - first:
+      213: 21300072
+    second: 14_Basement_36
+  - first:
+      213: 21300074
+    second: 14_Basement_37
+  - first:
+      213: 21300076
+    second: 14_Basement_38
+  - first:
+      213: 21300078
+    second: 14_Basement_39
+  - first:
+      213: 21300080
+    second: 14_Basement_40
+  - first:
+      213: 21300082
+    second: 14_Basement_41
+  - first:
+      213: 21300084
+    second: 14_Basement_42
+  - first:
+      213: 21300086
+    second: 14_Basement_43
+  - first:
+      213: 21300088
+    second: 14_Basement_44
+  - first:
+      213: 21300090
+    second: 14_Basement_45
+  - first:
+      213: 21300092
+    second: 14_Basement_46
+  - first:
+      213: 21300094
+    second: 14_Basement_47
+  - first:
+      213: 21300096
+    second: 14_Basement_48
+  - first:
+      213: 21300098
+    second: 14_Basement_49
+  - first:
+      213: 21300100
+    second: 14_Basement_50
+  - first:
+      213: 21300102
+    second: 14_Basement_51
+  - first:
+      213: 21300104
+    second: 14_Basement_52
+  - first:
+      213: 21300106
+    second: 14_Basement_53
+  - first:
+      213: 21300108
+    second: 14_Basement_54
+  - first:
+      213: 21300110
+    second: 14_Basement_55
+  - first:
+      213: 21300112
+    second: 14_Basement_56
+  - first:
+      213: 21300114
+    second: 14_Basement_57
+  - first:
+      213: 21300116
+    second: 14_Basement_58
+  - first:
+      213: 21300118
+    second: 14_Basement_59
+  - first:
+      213: 21300120
+    second: 14_Basement_60
+  - first:
+      213: 21300122
+    second: 14_Basement_61
+  - first:
+      213: 21300124
+    second: 14_Basement_62
+  - first:
+      213: 21300126
+    second: 14_Basement_63
+  - first:
+      213: 21300128
+    second: 14_Basement_64
+  - first:
+      213: 21300130
+    second: 14_Basement_65
+  - first:
+      213: 21300132
+    second: 14_Basement_66
+  - first:
+      213: 21300134
+    second: 14_Basement_67
+  - first:
+      213: 21300136
+    second: 14_Basement_68
+  - first:
+      213: 21300138
+    second: 14_Basement_69
+  - first:
+      213: 21300140
+    second: 14_Basement_70
+  - first:
+      213: 21300142
+    second: 14_Basement_71
+  - first:
+      213: 21300144
+    second: 14_Basement_72
+  - first:
+      213: 21300146
+    second: 14_Basement_73
+  - first:
+      213: 21300148
+    second: 14_Basement_74
+  - first:
+      213: 21300150
+    second: 14_Basement_75
+  - first:
+      213: 21300152
+    second: 14_Basement_76
+  - first:
+      213: 21300154
+    second: 14_Basement_77
+  - first:
+      213: 21300156
+    second: 14_Basement_78
+  - first:
+      213: 21300158
+    second: 14_Basement_79
+  - first:
+      213: 21300160
+    second: 14_Basement_80
+  - first:
+      213: 21300162
+    second: 14_Basement_81
+  - first:
+      213: 21300164
+    second: 14_Basement_82
+  - first:
+      213: 21300166
+    second: 14_Basement_83
+  - first:
+      213: 21300168
+    second: 14_Basement_84
+  - first:
+      213: 21300170
+    second: 14_Basement_85
+  - first:
+      213: 21300172
+    second: 14_Basement_86
+  - first:
+      213: 21300174
+    second: 14_Basement_87
+  - first:
+      213: 21300176
+    second: 14_Basement_88
+  - first:
+      213: 21300178
+    second: 14_Basement_89
+  - first:
+      213: 21300180
+    second: 14_Basement_90
+  - first:
+      213: 21300182
+    second: 14_Basement_91
+  - first:
+      213: 21300184
+    second: 14_Basement_92
+  - first:
+      213: 21300186
+    second: 14_Basement_93
+  - first:
+      213: 21300188
+    second: 14_Basement_94
+  - first:
+      213: 21300190
+    second: 14_Basement_95
+  - first:
+      213: 21300192
+    second: 14_Basement_96
+  - first:
+      213: 21300194
+    second: 14_Basement_97
+  - first:
+      213: 21300196
+    second: 14_Basement_98
+  - first:
+      213: 21300198
+    second: 14_Basement_99
+  - first:
+      213: 21300200
+    second: 14_Basement_100
+  - first:
+      213: 21300202
+    second: 14_Basement_101
+  - first:
+      213: 21300204
+    second: 14_Basement_102
+  - first:
+      213: 21300206
+    second: 14_Basement_103
+  - first:
+      213: 21300208
+    second: 14_Basement_104
+  - first:
+      213: 21300210
+    second: 14_Basement_105
+  - first:
+      213: 21300212
+    second: 14_Basement_106
+  - first:
+      213: 21300214
+    second: 14_Basement_107
+  - first:
+      213: 21300216
+    second: 14_Basement_108
+  - first:
+      213: 21300218
+    second: 14_Basement_109
+  - first:
+      213: 21300220
+    second: 14_Basement_110
+  - first:
+      213: 21300222
+    second: 14_Basement_111
+  - first:
+      213: 21300224
+    second: 14_Basement_112
+  - first:
+      213: 21300226
+    second: 14_Basement_113
+  - first:
+      213: 21300228
+    second: 14_Basement_114
+  - first:
+      213: 21300230
+    second: 14_Basement_115
+  - first:
+      213: 21300232
+    second: 14_Basement_116
+  - first:
+      213: 21300234
+    second: 14_Basement_117
+  - first:
+      213: 21300236
+    second: 14_Basement_118
+  - first:
+      213: 21300238
+    second: 14_Basement_119
+  - first:
+      213: 21300240
+    second: 14_Basement_120
+  - first:
+      213: 21300242
+    second: 14_Basement_121
+  - first:
+      213: 21300244
+    second: 14_Basement_122
+  - first:
+      213: 21300246
+    second: 14_Basement_123
+  - first:
+      213: 21300248
+    second: 14_Basement_124
+  - first:
+      213: 21300250
+    second: 14_Basement_125
+  - first:
+      213: 21300252
+    second: 14_Basement_126
+  - first:
+      213: 21300254
+    second: 14_Basement_127
+  - first:
+      213: 21300256
+    second: 14_Basement_128
+  - first:
+      213: 21300258
+    second: 14_Basement_129
+  - first:
+      213: 21300260
+    second: 14_Basement_130
+  - first:
+      213: 21300262
+    second: 14_Basement_131
+  - first:
+      213: 21300264
+    second: 14_Basement_132
+  - first:
+      213: 21300266
+    second: 14_Basement_133
+  - first:
+      213: 21300268
+    second: 14_Basement_134
+  - first:
+      213: 21300270
+    second: 14_Basement_135
+  - first:
+      213: 21300272
+    second: 14_Basement_136
+  - first:
+      213: 21300274
+    second: 14_Basement_137
+  - first:
+      213: 21300276
+    second: 14_Basement_138
+  - first:
+      213: 21300278
+    second: 14_Basement_139
+  - first:
+      213: 21300280
+    second: 14_Basement_140
+  - first:
+      213: 21300282
+    second: 14_Basement_141
+  - first:
+      213: 21300284
+    second: 14_Basement_142
+  - first:
+      213: 21300286
+    second: 14_Basement_143
+  - first:
+      213: 21300288
+    second: 14_Basement_144
+  - first:
+      213: 21300290
+    second: 14_Basement_145
+  - first:
+      213: 21300292
+    second: 14_Basement_146
+  - first:
+      213: 21300294
+    second: 14_Basement_147
+  - first:
+      213: 21300296
+    second: 14_Basement_148
+  - first:
+      213: 21300298
+    second: 14_Basement_149
+  - first:
+      213: 21300300
+    second: 14_Basement_150
+  - first:
+      213: 21300302
+    second: 14_Basement_151
+  - first:
+      213: 21300304
+    second: 14_Basement_152
+  - first:
+      213: 21300306
+    second: 14_Basement_153
+  - first:
+      213: 21300308
+    second: 14_Basement_154
+  - first:
+      213: 21300310
+    second: 14_Basement_155
+  - first:
+      213: 21300312
+    second: 14_Basement_156
+  - first:
+      213: 21300314
+    second: 14_Basement_157
+  - first:
+      213: 21300316
+    second: 14_Basement_158
+  - first:
+      213: 21300318
+    second: 14_Basement_159
+  - first:
+      213: 21300320
+    second: 14_Basement_160
+  - first:
+      213: 21300322
+    second: 14_Basement_161
+  - first:
+      213: 21300324
+    second: 14_Basement_162
+  - first:
+      213: 21300326
+    second: 14_Basement_163
+  - first:
+      213: 21300328
+    second: 14_Basement_164
+  - first:
+      213: 21300330
+    second: 14_Basement_165
+  - first:
+      213: 21300332
+    second: 14_Basement_166
+  - first:
+      213: 21300334
+    second: 14_Basement_167
+  - first:
+      213: 21300336
+    second: 14_Basement_168
+  - first:
+      213: 21300338
+    second: 14_Basement_169
+  - first:
+      213: 21300340
+    second: 14_Basement_170
+  - first:
+      213: 21300342
+    second: 14_Basement_171
+  - first:
+      213: 21300344
+    second: 14_Basement_172
+  - first:
+      213: 21300346
+    second: 14_Basement_173
+  - first:
+      213: 21300348
+    second: 14_Basement_174
+  - first:
+      213: 21300350
+    second: 14_Basement_175
+  - first:
+      213: 21300352
+    second: 14_Basement_176
+  - first:
+      213: 21300354
+    second: 14_Basement_177
+  - first:
+      213: 21300356
+    second: 14_Basement_178
+  - first:
+      213: 21300358
+    second: 14_Basement_179
+  - first:
+      213: 21300360
+    second: 14_Basement_180
+  - first:
+      213: 21300362
+    second: 14_Basement_181
+  - first:
+      213: 21300364
+    second: 14_Basement_182
+  - first:
+      213: 21300366
+    second: 14_Basement_183
+  - first:
+      213: 21300368
+    second: 14_Basement_184
+  - first:
+      213: 21300370
+    second: 14_Basement_185
+  - first:
+      213: 21300372
+    second: 14_Basement_186
+  - first:
+      213: 21300374
+    second: 14_Basement_187
+  - first:
+      213: 21300376
+    second: 14_Basement_188
+  - first:
+      213: 21300378
+    second: 14_Basement_189
+  - first:
+      213: 21300380
+    second: 14_Basement_190
+  - first:
+      213: 21300382
+    second: 14_Basement_191
+  - first:
+      213: 21300384
+    second: 14_Basement_192
+  - first:
+      213: 21300386
+    second: 14_Basement_193
+  - first:
+      213: 21300388
+    second: 14_Basement_194
+  - first:
+      213: 21300390
+    second: 14_Basement_195
+  - first:
+      213: 21300392
+    second: 14_Basement_196
+  - first:
+      213: 21300394
+    second: 14_Basement_197
+  - first:
+      213: 21300396
+    second: 14_Basement_198
+  - first:
+      213: 21300398
+    second: 14_Basement_199
+  - first:
+      213: 21300400
+    second: 14_Basement_200
+  - first:
+      213: 21300402
+    second: 14_Basement_201
+  - first:
+      213: 21300404
+    second: 14_Basement_202
+  - first:
+      213: 21300406
+    second: 14_Basement_203
+  - first:
+      213: 21300408
+    second: 14_Basement_204
+  - first:
+      213: 21300410
+    second: 14_Basement_205
+  - first:
+      213: 21300412
+    second: 14_Basement_206
+  - first:
+      213: 21300414
+    second: 14_Basement_207
+  - first:
+      213: 21300416
+    second: 14_Basement_208
+  - first:
+      213: 21300418
+    second: 14_Basement_209
+  - first:
+      213: 21300420
+    second: 14_Basement_210
+  - first:
+      213: 21300422
+    second: 14_Basement_211
+  - first:
+      213: 21300424
+    second: 14_Basement_212
+  - first:
+      213: 21300426
+    second: 14_Basement_213
+  - first:
+      213: 21300428
+    second: 14_Basement_214
+  - first:
+      213: 21300430
+    second: 14_Basement_215
+  - first:
+      213: 21300432
+    second: 14_Basement_216
+  - first:
+      213: 21300434
+    second: 14_Basement_217
+  - first:
+      213: 21300436
+    second: 14_Basement_218
+  - first:
+      213: 21300438
+    second: 14_Basement_219
+  - first:
+      213: 21300440
+    second: 14_Basement_220
+  - first:
+      213: 21300442
+    second: 14_Basement_221
+  - first:
+      213: 21300444
+    second: 14_Basement_222
+  - first:
+      213: 21300446
+    second: 14_Basement_223
+  - first:
+      213: 21300448
+    second: 14_Basement_224
+  - first:
+      213: 21300450
+    second: 14_Basement_225
+  - first:
+      213: 21300452
+    second: 14_Basement_226
+  - first:
+      213: 21300454
+    second: 14_Basement_227
+  - first:
+      213: 21300456
+    second: 14_Basement_228
+  - first:
+      213: 21300458
+    second: 14_Basement_229
+  - first:
+      213: 21300460
+    second: 14_Basement_230
+  - first:
+      213: 21300462
+    second: 14_Basement_231
+  - first:
+      213: 21300464
+    second: 14_Basement_232
+  - first:
+      213: 21300466
+    second: 14_Basement_233
+  - first:
+      213: 21300468
+    second: 14_Basement_234
+  - first:
+      213: 21300470
+    second: 14_Basement_235
+  - first:
+      213: 21300472
+    second: 14_Basement_236
+  - first:
+      213: 21300474
+    second: 14_Basement_237
+  - first:
+      213: 21300476
+    second: 14_Basement_238
+  - first:
+      213: 21300478
+    second: 14_Basement_239
+  - first:
+      213: 21300480
+    second: 14_Basement_240
+  - first:
+      213: 21300482
+    second: 14_Basement_241
+  - first:
+      213: 21300484
+    second: 14_Basement_242
+  - first:
+      213: 21300486
+    second: 14_Basement_243
+  - first:
+      213: 21300488
+    second: 14_Basement_244
+  - first:
+      213: 21300490
+    second: 14_Basement_245
+  - first:
+      213: 21300492
+    second: 14_Basement_246
+  - first:
+      213: 21300494
+    second: 14_Basement_247
+  - first:
+      213: 21300496
+    second: 14_Basement_248
+  - first:
+      213: 21300498
+    second: 14_Basement_249
+  - first:
+      213: 21300500
+    second: 14_Basement_250
+  - first:
+      213: 21300502
+    second: 14_Basement_251
+  - first:
+      213: 21300504
+    second: 14_Basement_252
+  - first:
+      213: 21300506
+    second: 14_Basement_253
+  - first:
+      213: 21300508
+    second: 14_Basement_254
+  - first:
+      213: 21300510
+    second: 14_Basement_255
+  - first:
+      213: 21300512
+    second: 14_Basement_256
+  - first:
+      213: 21300514
+    second: 14_Basement_257
+  - first:
+      213: 21300516
+    second: 14_Basement_258
+  - first:
+      213: 21300518
+    second: 14_Basement_259
+  - first:
+      213: 21300520
+    second: 14_Basement_260
+  - first:
+      213: 21300522
+    second: 14_Basement_261
+  - first:
+      213: 21300524
+    second: 14_Basement_262
+  - first:
+      213: 21300526
+    second: 14_Basement_263
+  - first:
+      213: 21300528
+    second: 14_Basement_264
+  - first:
+      213: 21300530
+    second: 14_Basement_265
+  - first:
+      213: 21300532
+    second: 14_Basement_266
+  - first:
+      213: 21300534
+    second: 14_Basement_267
+  - first:
+      213: 21300536
+    second: 14_Basement_268
+  - first:
+      213: 21300538
+    second: 14_Basement_269
+  - first:
+      213: 21300540
+    second: 14_Basement_270
+  - first:
+      213: 21300542
+    second: 14_Basement_271
+  - first:
+      213: 21300544
+    second: 14_Basement_272
+  - first:
+      213: 21300546
+    second: 14_Basement_273
+  - first:
+      213: 21300548
+    second: 14_Basement_274
+  - first:
+      213: 21300550
+    second: 14_Basement_275
+  - first:
+      213: 21300552
+    second: 14_Basement_276
+  - first:
+      213: 21300554
+    second: 14_Basement_277
+  - first:
+      213: 21300556
+    second: 14_Basement_278
+  - first:
+      213: 21300558
+    second: 14_Basement_279
+  - first:
+      213: 21300560
+    second: 14_Basement_280
+  - first:
+      213: 21300562
+    second: 14_Basement_281
+  - first:
+      213: 21300564
+    second: 14_Basement_282
+  - first:
+      213: 21300566
+    second: 14_Basement_283
+  - first:
+      213: 21300568
+    second: 14_Basement_284
+  - first:
+      213: 21300570
+    second: 14_Basement_285
+  - first:
+      213: 21300572
+    second: 14_Basement_286
+  - first:
+      213: 21300574
+    second: 14_Basement_287
+  - first:
+      213: 21300576
+    second: 14_Basement_288
+  - first:
+      213: 21300578
+    second: 14_Basement_289
+  - first:
+      213: 21300580
+    second: 14_Basement_290
+  - first:
+      213: 21300582
+    second: 14_Basement_291
+  - first:
+      213: 21300584
+    second: 14_Basement_292
+  - first:
+      213: 21300586
+    second: 14_Basement_293
+  - first:
+      213: 21300588
+    second: 14_Basement_294
+  - first:
+      213: 21300590
+    second: 14_Basement_295
+  - first:
+      213: 21300592
+    second: 14_Basement_296
+  - first:
+      213: 21300594
+    second: 14_Basement_297
+  - first:
+      213: 21300596
+    second: 14_Basement_298
+  - first:
+      213: 21300598
+    second: 14_Basement_299
+  - first:
+      213: 21300600
+    second: 14_Basement_300
+  - first:
+      213: 21300602
+    second: 14_Basement_301
+  - first:
+      213: 21300604
+    second: 14_Basement_302
+  - first:
+      213: 21300606
+    second: 14_Basement_303
+  - first:
+      213: 21300608
+    second: 14_Basement_304
+  - first:
+      213: 21300610
+    second: 14_Basement_305
+  - first:
+      213: 21300612
+    second: 14_Basement_306
+  - first:
+      213: 21300614
+    second: 14_Basement_307
+  - first:
+      213: 21300616
+    second: 14_Basement_308
+  - first:
+      213: 21300618
+    second: 14_Basement_309
+  - first:
+      213: 21300620
+    second: 14_Basement_310
+  - first:
+      213: 21300622
+    second: 14_Basement_311
+  - first:
+      213: 21300624
+    second: 14_Basement_312
+  - first:
+      213: 21300626
+    second: 14_Basement_313
+  - first:
+      213: 21300628
+    second: 14_Basement_314
+  - first:
+      213: 21300630
+    second: 14_Basement_315
+  - first:
+      213: 21300632
+    second: 14_Basement_316
+  - first:
+      213: 21300634
+    second: 14_Basement_317
+  - first:
+      213: 21300636
+    second: 14_Basement_318
+  - first:
+      213: 21300638
+    second: 14_Basement_319
+  - first:
+      213: 21300640
+    second: 14_Basement_320
+  - first:
+      213: 21300642
+    second: 14_Basement_321
+  - first:
+      213: 21300644
+    second: 14_Basement_322
+  - first:
+      213: 21300646
+    second: 14_Basement_323
+  - first:
+      213: 21300648
+    second: 14_Basement_324
+  - first:
+      213: 21300650
+    second: 14_Basement_325
+  - first:
+      213: 21300652
+    second: 14_Basement_326
+  - first:
+      213: 21300654
+    second: 14_Basement_327
+  - first:
+      213: 21300656
+    second: 14_Basement_328
+  - first:
+      213: 21300658
+    second: 14_Basement_329
+  - first:
+      213: 21300660
+    second: 14_Basement_330
+  - first:
+      213: 21300662
+    second: 14_Basement_331
+  - first:
+      213: 21300664
+    second: 14_Basement_332
+  - first:
+      213: 21300666
+    second: 14_Basement_333
+  - first:
+      213: 21300668
+    second: 14_Basement_334
+  - first:
+      213: 21300670
+    second: 14_Basement_335
+  - first:
+      213: 21300672
+    second: 14_Basement_336
+  - first:
+      213: 21300674
+    second: 14_Basement_337
+  - first:
+      213: 21300676
+    second: 14_Basement_338
+  - first:
+      213: 21300678
+    second: 14_Basement_339
+  - first:
+      213: 21300680
+    second: 14_Basement_340
+  - first:
+      213: 21300682
+    second: 14_Basement_341
+  - first:
+      213: 21300684
+    second: 14_Basement_342
+  - first:
+      213: 21300686
+    second: 14_Basement_343
+  - first:
+      213: 21300688
+    second: 14_Basement_344
+  - first:
+      213: 21300690
+    second: 14_Basement_345
+  - first:
+      213: 21300692
+    second: 14_Basement_346
+  - first:
+      213: 21300694
+    second: 14_Basement_347
+  - first:
+      213: 21300696
+    second: 14_Basement_348
+  - first:
+      213: 21300698
+    second: 14_Basement_349
+  - first:
+      213: 21300700
+    second: 14_Basement_350
+  - first:
+      213: 21300702
+    second: 14_Basement_351
+  - first:
+      213: 21300704
+    second: 14_Basement_352
+  - first:
+      213: 21300706
+    second: 14_Basement_353
+  - first:
+      213: 21300708
+    second: 14_Basement_354
+  - first:
+      213: 21300710
+    second: 14_Basement_355
+  - first:
+      213: 21300712
+    second: 14_Basement_356
+  - first:
+      213: 21300714
+    second: 14_Basement_357
+  - first:
+      213: 21300716
+    second: 14_Basement_358
+  - first:
+      213: 21300718
+    second: 14_Basement_359
+  - first:
+      213: 21300720
+    second: 14_Basement_360
+  - first:
+      213: 21300722
+    second: 14_Basement_361
+  - first:
+      213: 21300724
+    second: 14_Basement_362
+  - first:
+      213: 21300726
+    second: 14_Basement_363
+  - first:
+      213: 21300728
+    second: 14_Basement_364
+  - first:
+      213: 21300730
+    second: 14_Basement_365
+  - first:
+      213: 21300732
+    second: 14_Basement_366
+  - first:
+      213: 21300734
+    second: 14_Basement_367
+  - first:
+      213: 21300736
+    second: 14_Basement_368
+  - first:
+      213: 21300738
+    second: 14_Basement_369
+  - first:
+      213: 21300740
+    second: 14_Basement_370
+  - first:
+      213: 21300742
+    second: 14_Basement_371
+  - first:
+      213: 21300744
+    second: 14_Basement_372
+  - first:
+      213: 21300746
+    second: 14_Basement_373
+  - first:
+      213: 21300748
+    second: 14_Basement_374
+  - first:
+      213: 21300750
+    second: 14_Basement_375
+  - first:
+      213: 21300752
+    second: 14_Basement_376
+  - first:
+      213: 21300754
+    second: 14_Basement_377
+  - first:
+      213: 21300756
+    second: 14_Basement_378
+  - first:
+      213: 21300758
+    second: 14_Basement_379
+  - first:
+      213: 21300760
+    second: 14_Basement_380
+  - first:
+      213: 21300762
+    second: 14_Basement_381
+  - first:
+      213: 21300764
+    second: 14_Basement_382
+  - first:
+      213: 21300766
+    second: 14_Basement_383
+  - first:
+      213: 21300768
+    second: 14_Basement_384
+  - first:
+      213: 21300770
+    second: 14_Basement_385
+  - first:
+      213: 21300772
+    second: 14_Basement_386
+  - first:
+      213: 21300774
+    second: 14_Basement_387
+  - first:
+      213: 21300776
+    second: 14_Basement_388
+  - first:
+      213: 21300778
+    second: 14_Basement_389
+  - first:
+      213: 21300780
+    second: 14_Basement_390
+  - first:
+      213: 21300782
+    second: 14_Basement_391
+  - first:
+      213: 21300784
+    second: 14_Basement_392
+  - first:
+      213: 21300786
+    second: 14_Basement_393
+  - first:
+      213: 21300788
+    second: 14_Basement_394
+  - first:
+      213: 21300790
+    second: 14_Basement_395
+  - first:
+      213: 21300792
+    second: 14_Basement_396
+  - first:
+      213: 21300794
+    second: 14_Basement_397
+  - first:
+      213: 21300796
+    second: 14_Basement_398
+  - first:
+      213: 21300798
+    second: 14_Basement_399
+  - first:
+      213: 21300800
+    second: 14_Basement_400
+  - first:
+      213: 21300802
+    second: 14_Basement_401
+  - first:
+      213: 21300804
+    second: 14_Basement_402
+  - first:
+      213: 21300806
+    second: 14_Basement_403
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -427,6 +1233,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -437,7 +1245,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -449,18 +1257,22 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -469,7 +1281,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -478,6 +1293,8 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -495,6 +1312,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_1
       rect:
@@ -509,6 +1333,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_2
       rect:
@@ -523,6 +1354,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_3
       rect:
@@ -537,6 +1375,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_4
       rect:
@@ -551,6 +1396,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_5
       rect:
@@ -565,6 +1417,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_6
       rect:
@@ -579,6 +1438,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_7
       rect:
@@ -593,6 +1459,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_8
       rect:
@@ -607,6 +1480,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_9
       rect:
@@ -621,6 +1501,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_10
       rect:
@@ -635,6 +1522,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_11
       rect:
@@ -649,6 +1543,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_12
       rect:
@@ -663,6 +1564,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_13
       rect:
@@ -677,6 +1585,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_14
       rect:
@@ -691,6 +1606,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_15
       rect:
@@ -705,6 +1627,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_16
       rect:
@@ -719,6 +1648,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_17
       rect:
@@ -733,6 +1669,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_18
       rect:
@@ -747,6 +1690,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_19
       rect:
@@ -761,6 +1711,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_20
       rect:
@@ -775,6 +1732,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_21
       rect:
@@ -789,6 +1753,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_22
       rect:
@@ -803,6 +1774,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_23
       rect:
@@ -817,6 +1795,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_24
       rect:
@@ -831,6 +1816,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_25
       rect:
@@ -845,6 +1837,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_26
       rect:
@@ -859,6 +1858,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_27
       rect:
@@ -873,6 +1879,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_28
       rect:
@@ -887,6 +1900,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_29
       rect:
@@ -901,6 +1921,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_30
       rect:
@@ -915,6 +1942,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_31
       rect:
@@ -929,6 +1963,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_32
       rect:
@@ -943,6 +1984,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_33
       rect:
@@ -957,6 +2005,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_34
       rect:
@@ -971,6 +2026,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_35
       rect:
@@ -985,6 +2047,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_36
       rect:
@@ -999,6 +2068,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_37
       rect:
@@ -1013,6 +2089,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_38
       rect:
@@ -1027,6 +2110,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_39
       rect:
@@ -1041,6 +2131,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_40
       rect:
@@ -1055,6 +2152,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_41
       rect:
@@ -1069,6 +2173,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_42
       rect:
@@ -1083,6 +2194,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_43
       rect:
@@ -1097,6 +2215,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_44
       rect:
@@ -1111,6 +2236,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_45
       rect:
@@ -1125,6 +2257,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_46
       rect:
@@ -1139,6 +2278,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_47
       rect:
@@ -1153,6 +2299,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_48
       rect:
@@ -1167,6 +2320,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_49
       rect:
@@ -1181,6 +2341,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_50
       rect:
@@ -1195,6 +2362,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_51
       rect:
@@ -1209,6 +2383,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_52
       rect:
@@ -1223,6 +2404,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_53
       rect:
@@ -1237,6 +2425,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_54
       rect:
@@ -1251,6 +2446,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_55
       rect:
@@ -1265,6 +2467,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_56
       rect:
@@ -1279,6 +2488,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_57
       rect:
@@ -1293,6 +2509,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_58
       rect:
@@ -1307,6 +2530,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_59
       rect:
@@ -1321,6 +2551,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_60
       rect:
@@ -1335,6 +2572,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_61
       rect:
@@ -1349,6 +2593,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_62
       rect:
@@ -1363,6 +2614,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_63
       rect:
@@ -1377,6 +2635,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_64
       rect:
@@ -1391,6 +2656,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_65
       rect:
@@ -1405,6 +2677,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_66
       rect:
@@ -1419,6 +2698,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_67
       rect:
@@ -1433,6 +2719,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_68
       rect:
@@ -1447,6 +2740,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_69
       rect:
@@ -1461,6 +2761,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_70
       rect:
@@ -1475,6 +2782,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_71
       rect:
@@ -1489,6 +2803,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_72
       rect:
@@ -1503,6 +2824,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_73
       rect:
@@ -1517,6 +2845,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_74
       rect:
@@ -1531,6 +2866,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_75
       rect:
@@ -1545,6 +2887,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_76
       rect:
@@ -1559,6 +2908,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_77
       rect:
@@ -1573,6 +2929,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_78
       rect:
@@ -1587,6 +2950,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_79
       rect:
@@ -1601,6 +2971,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_80
       rect:
@@ -1615,6 +2992,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_81
       rect:
@@ -1629,6 +3013,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_82
       rect:
@@ -1643,6 +3034,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_83
       rect:
@@ -1657,6 +3055,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_84
       rect:
@@ -1671,6 +3076,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_85
       rect:
@@ -1685,6 +3097,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_86
       rect:
@@ -1699,6 +3118,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_87
       rect:
@@ -1713,6 +3139,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_88
       rect:
@@ -1727,6 +3160,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_89
       rect:
@@ -1741,6 +3181,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_90
       rect:
@@ -1755,6 +3202,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_91
       rect:
@@ -1769,6 +3223,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_92
       rect:
@@ -1783,6 +3244,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_93
       rect:
@@ -1797,6 +3265,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_94
       rect:
@@ -1811,6 +3286,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_95
       rect:
@@ -1825,6 +3307,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_96
       rect:
@@ -1839,6 +3328,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_97
       rect:
@@ -1853,6 +3349,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_98
       rect:
@@ -1867,6 +3370,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_99
       rect:
@@ -1881,6 +3391,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_100
       rect:
@@ -1895,6 +3412,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_101
       rect:
@@ -1909,6 +3433,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_102
       rect:
@@ -1923,6 +3454,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_103
       rect:
@@ -1937,6 +3475,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_104
       rect:
@@ -1951,6 +3496,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_105
       rect:
@@ -1965,6 +3517,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_106
       rect:
@@ -1979,6 +3538,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_107
       rect:
@@ -1993,6 +3559,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_108
       rect:
@@ -2007,6 +3580,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_109
       rect:
@@ -2021,6 +3601,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_110
       rect:
@@ -2035,6 +3622,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_111
       rect:
@@ -2049,6 +3643,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_112
       rect:
@@ -2063,6 +3664,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_113
       rect:
@@ -2077,6 +3685,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_114
       rect:
@@ -2091,6 +3706,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_115
       rect:
@@ -2105,6 +3727,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_116
       rect:
@@ -2119,6 +3748,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_117
       rect:
@@ -2133,6 +3769,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_118
       rect:
@@ -2147,6 +3790,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_119
       rect:
@@ -2161,6 +3811,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_120
       rect:
@@ -2175,6 +3832,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_121
       rect:
@@ -2189,6 +3853,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_122
       rect:
@@ -2203,6 +3874,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_123
       rect:
@@ -2217,6 +3895,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_124
       rect:
@@ -2231,6 +3916,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_125
       rect:
@@ -2245,6 +3937,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_126
       rect:
@@ -2259,6 +3958,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_127
       rect:
@@ -2273,6 +3979,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_128
       rect:
@@ -2287,6 +4000,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_129
       rect:
@@ -2301,6 +4021,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_130
       rect:
@@ -2315,6 +4042,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_131
       rect:
@@ -2329,6 +4063,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_132
       rect:
@@ -2343,6 +4084,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_133
       rect:
@@ -2357,6 +4105,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_134
       rect:
@@ -2371,6 +4126,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_135
       rect:
@@ -2385,6 +4147,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_136
       rect:
@@ -2399,6 +4168,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_137
       rect:
@@ -2413,6 +4189,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_138
       rect:
@@ -2427,6 +4210,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_139
       rect:
@@ -2441,6 +4231,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_140
       rect:
@@ -2455,6 +4252,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_141
       rect:
@@ -2469,6 +4273,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_142
       rect:
@@ -2483,6 +4294,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_143
       rect:
@@ -2497,6 +4315,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_144
       rect:
@@ -2511,6 +4336,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_145
       rect:
@@ -2525,6 +4357,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_146
       rect:
@@ -2539,6 +4378,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_147
       rect:
@@ -2553,6 +4399,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_148
       rect:
@@ -2567,6 +4420,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_149
       rect:
@@ -2581,6 +4441,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_150
       rect:
@@ -2595,6 +4462,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_151
       rect:
@@ -2609,6 +4483,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_152
       rect:
@@ -2623,6 +4504,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_153
       rect:
@@ -2637,6 +4525,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_154
       rect:
@@ -2651,6 +4546,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_155
       rect:
@@ -2665,6 +4567,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_156
       rect:
@@ -2679,6 +4588,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_157
       rect:
@@ -2693,6 +4609,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_158
       rect:
@@ -2707,6 +4630,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_159
       rect:
@@ -2721,6 +4651,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_160
       rect:
@@ -2735,6 +4672,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_161
       rect:
@@ -2749,6 +4693,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_162
       rect:
@@ -2763,6 +4714,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_163
       rect:
@@ -2777,6 +4735,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_164
       rect:
@@ -2791,6 +4756,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_165
       rect:
@@ -2805,6 +4777,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_166
       rect:
@@ -2819,6 +4798,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_167
       rect:
@@ -2833,6 +4819,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_168
       rect:
@@ -2847,6 +4840,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_169
       rect:
@@ -2861,6 +4861,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_170
       rect:
@@ -2875,6 +4882,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_171
       rect:
@@ -2889,6 +4903,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_172
       rect:
@@ -2903,6 +4924,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_173
       rect:
@@ -2917,6 +4945,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_174
       rect:
@@ -2931,6 +4966,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_175
       rect:
@@ -2945,6 +4987,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_176
       rect:
@@ -2959,6 +5008,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_177
       rect:
@@ -2973,6 +5029,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_178
       rect:
@@ -2987,6 +5050,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_179
       rect:
@@ -3001,6 +5071,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_180
       rect:
@@ -3015,6 +5092,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_181
       rect:
@@ -3029,6 +5113,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_182
       rect:
@@ -3043,6 +5134,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_183
       rect:
@@ -3057,6 +5155,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_184
       rect:
@@ -3071,6 +5176,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_185
       rect:
@@ -3085,6 +5197,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_186
       rect:
@@ -3099,6 +5218,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_187
       rect:
@@ -3113,6 +5239,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_188
       rect:
@@ -3127,6 +5260,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_189
       rect:
@@ -3141,6 +5281,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_190
       rect:
@@ -3155,6 +5302,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_191
       rect:
@@ -3169,6 +5323,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_192
       rect:
@@ -3183,6 +5344,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_193
       rect:
@@ -3197,6 +5365,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_194
       rect:
@@ -3211,6 +5386,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_195
       rect:
@@ -3225,6 +5407,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_196
       rect:
@@ -3239,6 +5428,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_197
       rect:
@@ -3253,6 +5449,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_198
       rect:
@@ -3267,6 +5470,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_199
       rect:
@@ -3281,6 +5491,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_200
       rect:
@@ -3295,6 +5512,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_201
       rect:
@@ -3309,6 +5533,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_202
       rect:
@@ -3323,6 +5554,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_203
       rect:
@@ -3337,6 +5575,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_204
       rect:
@@ -3351,6 +5596,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_205
       rect:
@@ -3365,6 +5617,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_206
       rect:
@@ -3379,6 +5638,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_207
       rect:
@@ -3393,6 +5659,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_208
       rect:
@@ -3407,6 +5680,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_209
       rect:
@@ -3421,6 +5701,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_210
       rect:
@@ -3435,6 +5722,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_211
       rect:
@@ -3449,6 +5743,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_212
       rect:
@@ -3463,6 +5764,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_213
       rect:
@@ -3477,6 +5785,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_214
       rect:
@@ -3491,6 +5806,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_215
       rect:
@@ -3505,6 +5827,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_216
       rect:
@@ -3519,6 +5848,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_217
       rect:
@@ -3533,6 +5869,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_218
       rect:
@@ -3547,6 +5890,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_219
       rect:
@@ -3561,6 +5911,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_220
       rect:
@@ -3575,6 +5932,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_221
       rect:
@@ -3589,6 +5953,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_222
       rect:
@@ -3603,6 +5974,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_223
       rect:
@@ -3617,6 +5995,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_224
       rect:
@@ -3631,6 +6016,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_225
       rect:
@@ -3645,6 +6037,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_226
       rect:
@@ -3659,6 +6058,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_227
       rect:
@@ -3673,6 +6079,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_228
       rect:
@@ -3687,6 +6100,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_229
       rect:
@@ -3701,6 +6121,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_230
       rect:
@@ -3715,6 +6142,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_231
       rect:
@@ -3729,6 +6163,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_232
       rect:
@@ -3743,6 +6184,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_233
       rect:
@@ -3757,6 +6205,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_234
       rect:
@@ -3771,6 +6226,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_235
       rect:
@@ -3785,6 +6247,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_236
       rect:
@@ -3799,6 +6268,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_237
       rect:
@@ -3813,6 +6289,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_238
       rect:
@@ -3827,6 +6310,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_239
       rect:
@@ -3841,6 +6331,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_240
       rect:
@@ -3855,6 +6352,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_241
       rect:
@@ -3869,6 +6373,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_242
       rect:
@@ -3883,6 +6394,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_243
       rect:
@@ -3897,6 +6415,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_244
       rect:
@@ -3911,6 +6436,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80505410000000000800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_245
       rect:
@@ -3925,6 +6457,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_246
       rect:
@@ -3939,6 +6478,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_247
       rect:
@@ -3953,6 +6499,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_248
       rect:
@@ -3967,6 +6520,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_249
       rect:
@@ -3981,6 +6541,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_250
       rect:
@@ -3995,6 +6562,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_251
       rect:
@@ -4009,6 +6583,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_252
       rect:
@@ -4023,6 +6604,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81505410000000000800000000000000
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_253
       rect:
@@ -4037,6 +6625,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1505410000000000800000000000000
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_254
       rect:
@@ -4051,6 +6646,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1505410000000000800000000000000
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_255
       rect:
@@ -4065,6 +6667,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1505410000000000800000000000000
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_256
       rect:
@@ -4079,6 +6688,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02505410000000000800000000000000
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_257
       rect:
@@ -4093,6 +6709,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22505410000000000800000000000000
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_258
       rect:
@@ -4107,6 +6730,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42505410000000000800000000000000
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_259
       rect:
@@ -4121,6 +6751,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62505410000000000800000000000000
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_260
       rect:
@@ -4135,6 +6772,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82505410000000000800000000000000
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_261
       rect:
@@ -4149,6 +6793,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2505410000000000800000000000000
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_262
       rect:
@@ -4163,6 +6814,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2505410000000000800000000000000
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_263
       rect:
@@ -4177,6 +6835,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2505410000000000800000000000000
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_264
       rect:
@@ -4191,6 +6856,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03505410000000000800000000000000
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_265
       rect:
@@ -4205,6 +6877,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23505410000000000800000000000000
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_266
       rect:
@@ -4219,6 +6898,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43505410000000000800000000000000
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_267
       rect:
@@ -4233,6 +6919,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63505410000000000800000000000000
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_268
       rect:
@@ -4247,6 +6940,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83505410000000000800000000000000
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_269
       rect:
@@ -4261,6 +6961,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3505410000000000800000000000000
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_270
       rect:
@@ -4275,6 +6982,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3505410000000000800000000000000
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_271
       rect:
@@ -4289,6 +7003,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3505410000000000800000000000000
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_272
       rect:
@@ -4303,6 +7024,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04505410000000000800000000000000
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_273
       rect:
@@ -4317,6 +7045,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24505410000000000800000000000000
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_274
       rect:
@@ -4331,6 +7066,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44505410000000000800000000000000
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_275
       rect:
@@ -4345,6 +7087,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64505410000000000800000000000000
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_276
       rect:
@@ -4359,6 +7108,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84505410000000000800000000000000
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_277
       rect:
@@ -4373,6 +7129,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4505410000000000800000000000000
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_278
       rect:
@@ -4387,6 +7150,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4505410000000000800000000000000
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_279
       rect:
@@ -4401,6 +7171,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4505410000000000800000000000000
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_280
       rect:
@@ -4415,6 +7192,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05505410000000000800000000000000
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_281
       rect:
@@ -4429,6 +7213,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25505410000000000800000000000000
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_282
       rect:
@@ -4443,6 +7234,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45505410000000000800000000000000
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_283
       rect:
@@ -4457,6 +7255,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65505410000000000800000000000000
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_284
       rect:
@@ -4471,6 +7276,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85505410000000000800000000000000
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_285
       rect:
@@ -4485,6 +7297,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5505410000000000800000000000000
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_286
       rect:
@@ -4499,6 +7318,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5505410000000000800000000000000
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_287
       rect:
@@ -4513,6 +7339,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5505410000000000800000000000000
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_288
       rect:
@@ -4527,6 +7360,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06505410000000000800000000000000
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_289
       rect:
@@ -4541,6 +7381,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26505410000000000800000000000000
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_290
       rect:
@@ -4555,6 +7402,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46505410000000000800000000000000
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_291
       rect:
@@ -4569,6 +7423,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66505410000000000800000000000000
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_292
       rect:
@@ -4583,6 +7444,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86505410000000000800000000000000
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_293
       rect:
@@ -4597,6 +7465,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6505410000000000800000000000000
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_294
       rect:
@@ -4611,6 +7486,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6505410000000000800000000000000
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_295
       rect:
@@ -4625,6 +7507,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6505410000000000800000000000000
+      internalID: 21300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_296
       rect:
@@ -4639,6 +7528,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07505410000000000800000000000000
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_297
       rect:
@@ -4653,6 +7549,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27505410000000000800000000000000
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_298
       rect:
@@ -4667,6 +7570,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47505410000000000800000000000000
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_299
       rect:
@@ -4681,6 +7591,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67505410000000000800000000000000
+      internalID: 21300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_300
       rect:
@@ -4695,6 +7612,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87505410000000000800000000000000
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_301
       rect:
@@ -4709,6 +7633,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7505410000000000800000000000000
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_302
       rect:
@@ -4723,6 +7654,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7505410000000000800000000000000
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_303
       rect:
@@ -4737,6 +7675,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7505410000000000800000000000000
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_304
       rect:
@@ -4751,6 +7696,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08505410000000000800000000000000
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_305
       rect:
@@ -4765,6 +7717,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28505410000000000800000000000000
+      internalID: 21300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_306
       rect:
@@ -4779,6 +7738,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48505410000000000800000000000000
+      internalID: 21300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_307
       rect:
@@ -4793,6 +7759,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68505410000000000800000000000000
+      internalID: 21300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_308
       rect:
@@ -4807,6 +7780,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88505410000000000800000000000000
+      internalID: 21300616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_309
       rect:
@@ -4821,6 +7801,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8505410000000000800000000000000
+      internalID: 21300618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_310
       rect:
@@ -4835,6 +7822,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8505410000000000800000000000000
+      internalID: 21300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_311
       rect:
@@ -4849,6 +7843,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8505410000000000800000000000000
+      internalID: 21300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_312
       rect:
@@ -4863,6 +7864,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09505410000000000800000000000000
+      internalID: 21300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_313
       rect:
@@ -4877,6 +7885,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29505410000000000800000000000000
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_314
       rect:
@@ -4891,6 +7906,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49505410000000000800000000000000
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_315
       rect:
@@ -4905,6 +7927,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69505410000000000800000000000000
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_316
       rect:
@@ -4919,6 +7948,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89505410000000000800000000000000
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_317
       rect:
@@ -4933,6 +7969,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9505410000000000800000000000000
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_318
       rect:
@@ -4947,6 +7990,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9505410000000000800000000000000
+      internalID: 21300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_319
       rect:
@@ -4961,6 +8011,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9505410000000000800000000000000
+      internalID: 21300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_320
       rect:
@@ -4975,6 +8032,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a505410000000000800000000000000
+      internalID: 21300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_321
       rect:
@@ -4989,6 +8053,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a505410000000000800000000000000
+      internalID: 21300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_322
       rect:
@@ -5003,6 +8074,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a505410000000000800000000000000
+      internalID: 21300644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_323
       rect:
@@ -5017,6 +8095,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a505410000000000800000000000000
+      internalID: 21300646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_324
       rect:
@@ -5031,6 +8116,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a505410000000000800000000000000
+      internalID: 21300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_325
       rect:
@@ -5045,6 +8137,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa505410000000000800000000000000
+      internalID: 21300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_326
       rect:
@@ -5059,6 +8158,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca505410000000000800000000000000
+      internalID: 21300652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_327
       rect:
@@ -5073,6 +8179,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea505410000000000800000000000000
+      internalID: 21300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_328
       rect:
@@ -5087,6 +8200,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b505410000000000800000000000000
+      internalID: 21300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_329
       rect:
@@ -5101,6 +8221,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b505410000000000800000000000000
+      internalID: 21300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_330
       rect:
@@ -5115,6 +8242,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b505410000000000800000000000000
+      internalID: 21300660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_331
       rect:
@@ -5129,6 +8263,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b505410000000000800000000000000
+      internalID: 21300662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_332
       rect:
@@ -5143,6 +8284,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b505410000000000800000000000000
+      internalID: 21300664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_333
       rect:
@@ -5157,6 +8305,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab505410000000000800000000000000
+      internalID: 21300666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_334
       rect:
@@ -5171,6 +8326,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb505410000000000800000000000000
+      internalID: 21300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_335
       rect:
@@ -5185,6 +8347,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb505410000000000800000000000000
+      internalID: 21300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_336
       rect:
@@ -5199,6 +8368,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c505410000000000800000000000000
+      internalID: 21300672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_337
       rect:
@@ -5213,6 +8389,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c505410000000000800000000000000
+      internalID: 21300674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_338
       rect:
@@ -5227,6 +8410,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c505410000000000800000000000000
+      internalID: 21300676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_339
       rect:
@@ -5241,6 +8431,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c505410000000000800000000000000
+      internalID: 21300678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_340
       rect:
@@ -5255,6 +8452,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c505410000000000800000000000000
+      internalID: 21300680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_341
       rect:
@@ -5269,6 +8473,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac505410000000000800000000000000
+      internalID: 21300682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_342
       rect:
@@ -5283,6 +8494,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc505410000000000800000000000000
+      internalID: 21300684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_343
       rect:
@@ -5297,6 +8515,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec505410000000000800000000000000
+      internalID: 21300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_344
       rect:
@@ -5311,6 +8536,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d505410000000000800000000000000
+      internalID: 21300688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_345
       rect:
@@ -5325,6 +8557,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d505410000000000800000000000000
+      internalID: 21300690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_346
       rect:
@@ -5339,6 +8578,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d505410000000000800000000000000
+      internalID: 21300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_347
       rect:
@@ -5353,6 +8599,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d505410000000000800000000000000
+      internalID: 21300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_348
       rect:
@@ -5367,6 +8620,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d505410000000000800000000000000
+      internalID: 21300696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_349
       rect:
@@ -5381,6 +8641,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad505410000000000800000000000000
+      internalID: 21300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_350
       rect:
@@ -5395,6 +8662,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd505410000000000800000000000000
+      internalID: 21300700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_351
       rect:
@@ -5409,6 +8683,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed505410000000000800000000000000
+      internalID: 21300702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_352
       rect:
@@ -5423,6 +8704,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e505410000000000800000000000000
+      internalID: 21300704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_353
       rect:
@@ -5437,6 +8725,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e505410000000000800000000000000
+      internalID: 21300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_354
       rect:
@@ -5451,6 +8746,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e505410000000000800000000000000
+      internalID: 21300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_355
       rect:
@@ -5465,6 +8767,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e505410000000000800000000000000
+      internalID: 21300710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_356
       rect:
@@ -5479,6 +8788,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e505410000000000800000000000000
+      internalID: 21300712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_357
       rect:
@@ -5493,6 +8809,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae505410000000000800000000000000
+      internalID: 21300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_358
       rect:
@@ -5507,6 +8830,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce505410000000000800000000000000
+      internalID: 21300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_359
       rect:
@@ -5521,6 +8851,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee505410000000000800000000000000
+      internalID: 21300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_360
       rect:
@@ -5535,6 +8872,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f505410000000000800000000000000
+      internalID: 21300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_361
       rect:
@@ -5549,6 +8893,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f505410000000000800000000000000
+      internalID: 21300722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_362
       rect:
@@ -5563,6 +8914,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f505410000000000800000000000000
+      internalID: 21300724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_363
       rect:
@@ -5577,6 +8935,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f505410000000000800000000000000
+      internalID: 21300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_364
       rect:
@@ -5591,6 +8956,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f505410000000000800000000000000
+      internalID: 21300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_365
       rect:
@@ -5605,6 +8977,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af505410000000000800000000000000
+      internalID: 21300730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_366
       rect:
@@ -5619,6 +8998,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf505410000000000800000000000000
+      internalID: 21300732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_367
       rect:
@@ -5633,6 +9019,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef505410000000000800000000000000
+      internalID: 21300734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_368
       rect:
@@ -5647,6 +9040,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00605410000000000800000000000000
+      internalID: 21300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_369
       rect:
@@ -5661,6 +9061,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20605410000000000800000000000000
+      internalID: 21300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_370
       rect:
@@ -5675,6 +9082,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40605410000000000800000000000000
+      internalID: 21300740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_371
       rect:
@@ -5689,6 +9103,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60605410000000000800000000000000
+      internalID: 21300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_372
       rect:
@@ -5703,6 +9124,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80605410000000000800000000000000
+      internalID: 21300744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_373
       rect:
@@ -5717,6 +9145,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0605410000000000800000000000000
+      internalID: 21300746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_374
       rect:
@@ -5731,6 +9166,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0605410000000000800000000000000
+      internalID: 21300748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_375
       rect:
@@ -5745,6 +9187,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0605410000000000800000000000000
+      internalID: 21300750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_376
       rect:
@@ -5759,6 +9208,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01605410000000000800000000000000
+      internalID: 21300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_377
       rect:
@@ -5773,6 +9229,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21605410000000000800000000000000
+      internalID: 21300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_378
       rect:
@@ -5787,6 +9250,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41605410000000000800000000000000
+      internalID: 21300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_379
       rect:
@@ -5801,6 +9271,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61605410000000000800000000000000
+      internalID: 21300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_380
       rect:
@@ -5815,6 +9292,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81605410000000000800000000000000
+      internalID: 21300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_381
       rect:
@@ -5829,6 +9313,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1605410000000000800000000000000
+      internalID: 21300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_382
       rect:
@@ -5843,6 +9334,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1605410000000000800000000000000
+      internalID: 21300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_383
       rect:
@@ -5857,6 +9355,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1605410000000000800000000000000
+      internalID: 21300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_384
       rect:
@@ -5871,6 +9376,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02605410000000000800000000000000
+      internalID: 21300768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_385
       rect:
@@ -5885,6 +9397,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22605410000000000800000000000000
+      internalID: 21300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_386
       rect:
@@ -5899,6 +9418,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42605410000000000800000000000000
+      internalID: 21300772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_387
       rect:
@@ -5913,6 +9439,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62605410000000000800000000000000
+      internalID: 21300774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_388
       rect:
@@ -5927,6 +9460,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82605410000000000800000000000000
+      internalID: 21300776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_389
       rect:
@@ -5941,6 +9481,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2605410000000000800000000000000
+      internalID: 21300778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_390
       rect:
@@ -5955,6 +9502,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2605410000000000800000000000000
+      internalID: 21300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_391
       rect:
@@ -5969,6 +9523,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2605410000000000800000000000000
+      internalID: 21300782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_392
       rect:
@@ -5983,6 +9544,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03605410000000000800000000000000
+      internalID: 21300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_393
       rect:
@@ -5997,6 +9565,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23605410000000000800000000000000
+      internalID: 21300786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_394
       rect:
@@ -6011,6 +9586,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43605410000000000800000000000000
+      internalID: 21300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_395
       rect:
@@ -6025,6 +9607,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63605410000000000800000000000000
+      internalID: 21300790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_396
       rect:
@@ -6039,6 +9628,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83605410000000000800000000000000
+      internalID: 21300792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_397
       rect:
@@ -6053,6 +9649,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3605410000000000800000000000000
+      internalID: 21300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_398
       rect:
@@ -6067,6 +9670,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3605410000000000800000000000000
+      internalID: 21300796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_399
       rect:
@@ -6081,6 +9691,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3605410000000000800000000000000
+      internalID: 21300798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_400
       rect:
@@ -6095,6 +9712,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04605410000000000800000000000000
+      internalID: 21300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_401
       rect:
@@ -6109,6 +9733,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24605410000000000800000000000000
+      internalID: 21300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_402
       rect:
@@ -6123,6 +9754,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44605410000000000800000000000000
+      internalID: 21300804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 14_Basement_403
       rect:
@@ -6137,9 +9775,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64605410000000000800000000000000
+      internalID: 21300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

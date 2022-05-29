@@ -18,6 +18,7 @@ public class Pausa : MonoBehaviour {
     void Update() {
         if (Input.GetKey(KeyCode.Escape)) {
             MenuPausado.SetActive(true);
+ 
         }
     }
 

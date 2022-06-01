@@ -28,6 +28,9 @@ public class InventarioSlot : MonoBehaviour {
     public void UsaItem()
     {
         if (item != null) {
+            if (Missao.instance.getObs() == 1) {
+            }
+            Debug.Log("Usando " + item.name);
             item.Usar();
         }
     }

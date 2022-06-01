@@ -28,9 +28,15 @@ public class interacaoInv : MonoBehaviour
         Legenda.SetActive(true);
         textoLegenda.SetActive(true);
         if(aux == 0){
-            textoLegenda.GetComponent<Text>().text = "Arduinooo"; 
+            textoLegenda.GetComponent<Text>().text = "Arduino \n\nPlataforma de prototipagem, com um microcontrolador Atmel AVR."; 
+        }else if (aux == 1)
+        {
+            textoLegenda.GetComponent<Text>().text = "Relé \n\nRelé 5V.";
+        }else if (aux == 2)
+        {
+            textoLegenda.GetComponent<Text>().text = "Sensor de Chuva \n\nQuando há chuva a saída do sensor fica em estado baixo.";
         }
-        
+
     }
     public void intInvDisable(int aux){
         interagiu = false;

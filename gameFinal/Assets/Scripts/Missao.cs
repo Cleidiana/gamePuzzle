@@ -20,8 +20,8 @@ public class Missao : MonoBehaviour {
     // Use this for initialization
     void Start () {
         objetivo = 0;
-        Mis.Add("Pegue o HW correto");
-        Mis.Add("Programe");
+        Mis.Add("Monitore a presença de chuva na casa");
+        Mis.Add("Com ajuda de um motor feche as janelas quando chover");
 
     }
 	
@@ -33,10 +33,25 @@ public class Missao : MonoBehaviour {
         }
         if (objetivo == 2)
         {
+            TimeUI.instance.startTimeUI();
             missoes.text = Mis[1];
         }
     }
     public void setObs(int id) {
         objetivo = id;
+    }
+    public int getObs()
+    {
+        return objetivo;
+    }
+
+    public int setOkHW(int id)
+    {
+        return objetivo;
+    }
+
+    public int getIfOkHW(int id)
+    {
+        return objetivo;
     }
 }

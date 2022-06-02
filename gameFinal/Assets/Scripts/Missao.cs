@@ -20,8 +20,8 @@ public class Missao : MonoBehaviour {
     // Use this for initialization
     void Start () {
         objetivo = 0;
-        Mis.Add("Monitore a presença de chuva na casa");
-        Mis.Add("Com ajuda de um motor feche as janelas quando chover");
+        Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa.");
+        Mis.Add("Projeto 1 - V1\nCom ajuda de um motor feche as janelas quando chover.");
 
     }
 	

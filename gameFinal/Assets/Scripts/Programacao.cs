@@ -11,6 +11,7 @@ public class Programacao : MonoBehaviour {
     public GameObject computador;
     public GameObject build;
     public GameObject ota;
+    public GameObject fecha;
     private CircleCollider2D abrirComputador;
     private string code;
 
@@ -21,6 +22,7 @@ public class Programacao : MonoBehaviour {
         textoInput.SetActive(false);
         build.SetActive(false);
         ota.SetActive(false);
+        fecha.SetActive(false);
         textoDefautProg1.SetActive(false);
         textoDefautProg2.SetActive(false);
         abrirComputador = GetComponent<CircleCollider2D>();
@@ -56,6 +58,20 @@ public class Programacao : MonoBehaviour {
         textoOut.GetComponent<Text>().text = code; 
         
     }
+
+    public void fechaCode()
+    {
+        computador.SetActive(false);
+        textoOut.SetActive(false);
+        textoInput.SetActive(false);
+        build.SetActive(false);
+        ota.SetActive(false);
+        textoDefautProg1.SetActive(false);
+        textoDefautProg2.SetActive(false);
+        fecha.SetActive(false);
+        Movimento_personagem.instance.SetVelocidade(5f);
+
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         computador.SetActive(true);
@@ -66,11 +82,12 @@ public class Programacao : MonoBehaviour {
         {
             textoDefautProg2.SetActive(true);
         }
-
+        computador.SetActive(true);
         textoOut.SetActive(true);
         textoInput.SetActive(true);
         build.SetActive(true);
         ota.SetActive(true);
+        fecha.SetActive(true);
         Movimento_personagem.instance.SetVelocidade(0);
     }
 

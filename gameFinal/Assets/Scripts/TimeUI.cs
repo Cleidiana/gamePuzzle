@@ -47,8 +47,8 @@ public class TimeUI : MonoBehaviour {
         }
         
 	}
-    public void startTimeUI()
+    public void stTimeUI(bool val)
     {
-        startTime = true;
+        startTime = val;
     }
 }

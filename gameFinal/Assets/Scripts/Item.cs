@@ -10,7 +10,7 @@ public class Item : ScriptableObject {
     public Sprite icone;
 
     public virtual void Usar() {
-        Debug.Log("Usando" + nome);
+        Debug.Log("Usando teste" + nome);
     }
 
     public void removeI() {

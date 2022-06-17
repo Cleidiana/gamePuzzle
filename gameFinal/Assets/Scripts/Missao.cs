@@ -20,23 +20,32 @@ public class Missao : MonoBehaviour {
     // Use this for initialization
     void Start () {
         objetivo = 0;
-        Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa.");
+        Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa, por wifi.");
         Mis.Add("Projeto 1 - V1\nCom ajuda de um motor feche as janelas quando chover.");
 
     }
 	
 	// Update is called once per frame
 	void Update () {
+        if (objetivo != 0)
+        {
+            onTime();
+        }
         if (objetivo == 1) {
-            TimeUI.instance.startTimeUI();
+
             missoes.text = Mis[0];
         }
         if (objetivo == 2)
         {
-            TimeUI.instance.startTimeUI();
             missoes.text = Mis[1];
         }
     }
+
+    private static void onTime()
+    {
+        TimeUI.instance.stTimeUI(true);
+    }
+
     public void setObs(int id) {
         objetivo = id;
     }

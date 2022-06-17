@@ -15,10 +15,12 @@ public class Abrir_inventario : MonoBehaviour {
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Movimento_personagem.instance.SetVelocidade(0f);
         inventario.SetActive(true);
         botaoSair.SetActive(true);
     }
     public void SairInventario(GameObject Bt) {
+        Movimento_personagem.instance.SetVelocidade(5f);
         inventario.SetActive(false);
         botaoSair.SetActive(false);
     }

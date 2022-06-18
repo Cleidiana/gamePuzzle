@@ -9,14 +9,15 @@ using UnityEngine.SceneManagement;
 public class Pausa : MonoBehaviour {
     public GameObject MenuPausado;
 
-    // Use this for initialization
     void Awake() {
+
         MenuPausado.SetActive(false);
     }
 
     // Update is called once per frame
     void Update() {
         if (Input.GetKey(KeyCode.Escape)) {
+            TimeUI.instance.onPause(true);
             MenuPausado.SetActive(true);
  
         }
@@ -42,7 +43,9 @@ public class Pausa : MonoBehaviour {
     }
     public void voltarJogo()
     {
+        TimeUI.instance.onPause(false);
         MenuPausado.SetActive(false);
     }
+
 
 }

@@ -13,17 +13,24 @@ public class Programacao : MonoBehaviour {
     public GameObject textoOut;   
     public GameObject computador;
     public GameObject build;
+    public GameObject saiHW;
     public GameObject ota;
     public GameObject fecha;
+    public GameObject txtHW;
     public GameObject tileN1, N1;
     private CircleCollider2D abrirComputador;
     private string code;
-    private bool valComputador = false, okHW = false;
+    private bool okHW = false, InvTestComp = false;
+    private bool atual1 = false, atual2 = false, atual3 = false;
 
-    
+
 
     public void Awake()
     {
+        atual1 = false;
+        atual2 = false;
+        atual3 = false;
+        txtHW.SetActive(false);
         computador.SetActive(false);
         textoOut.SetActive(false);
         txtInp1.SetActive(false);
@@ -37,6 +44,7 @@ public class Programacao : MonoBehaviour {
         imgInp4.SetActive(false);
         imgInp5.SetActive(false);
         build.SetActive(false);
+        saiHW.SetActive(false);
         ota.SetActive(false);
         fecha.SetActive(false);
         textoDefautProg1.SetActive(false);
@@ -51,64 +59,80 @@ public class Programacao : MonoBehaviour {
         
     }
     public void buildCode() {
-        txtInp1.GetComponent<Text>().text = "Função para conectar na rede wifi";
         code = txtInp1.GetComponent<Text>().text;
         if (Missao.instance.getObs() == 1)
         {
-            if (code == "wifi_start();")
+            textoOut.GetComponent<Text>().text = "OK, procure a proxima missão";
+            Missao.instance.setObs(0);
+            atual1 = false;
+            atual2 = false;
+            atual3 = false;
+            InventarioSlot.instance.DisableHW();
+            tileN1.SetActive(false);
+            N1.SetActive(false);
+            TimeUI.instance.stTimeUI(false);
+
+            if (false)
             {
-                code = txtInp2.GetComponent<Text>().text;
-                if (code == "mqtt_app_start();")
+                if (code == "wifi_start();")
                 {
-                    code = txtInp3.GetComponent<Text>().text;
-                    if (code == "sensor_chuva_init();")
+                    code = txtInp2.GetComponent<Text>().text;
+                    if (code == "mqtt_app_start();")
                     {
-                        code = txtInp4.GetComponent<Text>().text;
-                        if (code == "mqtt_pub_val(sensorChuva_meas());")
+                        code = txtInp3.GetComponent<Text>().text;
+                        if (code == "sensor_chuva_init();")
                         {
-                            code = txtInp5.GetComponent<Text>().text;
-                            if (code == "vTaskDelay(pdMS_TO_TICKS(1000)*60*10);")
+                            code = txtInp4.GetComponent<Text>().text;
+                            if (code == "mqtt_pub_val(sensorChuva_meas());")
                             {
-                                textoOut.GetComponent<Text>().text = "OK, procure a proxima missão";
-                                Missao.instance.setObs(0);
-                                InventarioSlot.instance.SetHW();
-                                tileN1.SetActive(false);
-                                N1.SetActive(false);
+                                code = txtInp5.GetComponent<Text>().text;
+                                if (code == "vTaskDelay(pdMS_TO_TICKS(1000)*60*10);")
+                                {
+                                    textoOut.GetComponent<Text>().text = "OK, procure a proxima missão";
+                                    Missao.instance.setObs(0);
+                                    atual1 = false;
+                                    atual2 = false;
+                                    atual3 = false;
+                                    InventarioSlot.instance.DisableHW();
+                                    tileN1.SetActive(false);
+                                    N1.SetActive(false);
+                                }
+                                else
+                                {
+                                    textoOut.GetComponent<Text>().text = "erro input 5";
+                                }
                             }
                             else
                             {
-                                textoOut.GetComponent<Text>().text = "erro input 5";
+                                textoOut.GetComponent<Text>().text = "erro input 4";
                             }
                         }
                         else
                         {
-                            textoOut.GetComponent<Text>().text = "erro input 4";
+                            textoOut.GetComponent<Text>().text = "erro input 3";
                         }
                     }
                     else
                     {
-                        textoOut.GetComponent<Text>().text = "erro input 3";
+                        textoOut.GetComponent<Text>().text = "erro input 2";
                     }
                 }
                 else
                 {
-                    textoOut.GetComponent<Text>().text = "erro input 2";
+                    textoOut.GetComponent<Text>().text = "erro input 1";
                 }
-            }
-            else
-            {
-                textoOut.GetComponent<Text>().text = "erro input 1";
-            }
-        }
-        if (Missao.instance.getObs() == 2)
-        {
-            if (code == "if test 2")
-            {
-                textoOut.GetComponent<Text>().text = "ok deu certo 2";
-            }
-            else
-            {
-                textoOut.GetComponent<Text>().text = code;
+
+                if (Missao.instance.getObs() == 2)
+                {
+                    if (code == "if test 2")
+                    {
+                        textoOut.GetComponent<Text>().text = "ok deu certo 2";
+                    }
+                    else
+                    {
+                        textoOut.GetComponent<Text>().text = code;
+                    }
+                }
             }
         }
         
@@ -119,8 +143,26 @@ public class Programacao : MonoBehaviour {
         
     }
 
+    public void saiTestHW()
+    {
+        txtHW.SetActive(false);
+        saiHW.SetActive(false);
+        TimeUI.instance.onPause(false);
+        txtHW.transform.GetChild(1).GetComponent<Text>().text = "";
+        Movimento_personagem.instance.SetVelocidade(5f);
+
+    }
+
     public void fechaCode()
     {
+        txtHW.transform.GetChild(1).GetComponent<Text>().text = "";
+        atual1 = false;
+        atual2 = false;
+        atual3 = false;
+        InventarioSlot.instance.DisableHW();
+        txtHW.SetActive(false);
+        saiHW.SetActive(false);
+        txtHW.SetActive(false);
         computador.SetActive(false);
         textoOut.SetActive(false);
         txtInp1.SetActive(false);
@@ -138,7 +180,8 @@ public class Programacao : MonoBehaviour {
         textoDefautProg1.SetActive(false);
         textoDefautProg2.SetActive(false);
         fecha.SetActive(false);
-        InventarioSlot.instance.computadorOn(false);
+        InvTestComp = false;
+        TimeUI.instance.onPause(false);
         Movimento_personagem.instance.SetVelocidade(5f);
 
     }
@@ -146,7 +189,6 @@ public class Programacao : MonoBehaviour {
     public void ligarComputador()
     {
         if (Missao.instance.getObs() != 0) {
-            TimeUI.instance.stTimeUI(false);
 
             computador.SetActive(true);
             if (Missao.instance.getObs() == 1)
@@ -177,17 +219,26 @@ public class Programacao : MonoBehaviour {
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Movimento_personagem.instance.SetVelocidade(0);
+        if (Missao.instance.getObs() != 0) {
+            TimeUI.instance.onPause(true);
+            Movimento_personagem.instance.SetVelocidade(0);
 
-        InventarioSlot.instance.computadorOn(true);
-        if (okHW)
-        {
-            ligarComputador();
+            InvTestComp = true;
+            if (okHW)
+            {
+                txtHW.transform.GetChild(1).GetComponent<Text>().text = "";
+                txtHW.SetActive(false);
+                saiHW.SetActive(false);
+                ligarComputador();
+            }
+            else
+            {
+                txtHW.SetActive(true);
+                saiHW.SetActive(true);
+                txtHW.transform.GetChild(1).GetComponent<Text>().text = "Escolha os itens de HW";
+            }
         }
-        else {
-            textoOut.SetActive(true);
-            textoOut.GetComponent<Text>().text = "click nos itens";
-        }
+       
     }
 
     public bool getOkHW()
@@ -197,5 +248,31 @@ public class Programacao : MonoBehaviour {
     public void setOkHW(bool val)
     {
         okHW = val;
+    }
+
+    public void okHWs(int id)
+    {
+        if (id == 0)
+        {
+            atual1 = true;
+        }
+        else if (id == 1)
+        {
+            atual2 = true;
+        }
+        else
+        {
+            atual3 = true;
+        }
+        if (atual1 && atual2 && atual3)
+        {
+            Programacao.instance.setOkHW(true);
+            Programacao.instance.ligarComputador();
+        }
+    }
+
+    public bool getComputador()
+    {
+        return InvTestComp;
     }
 }

@@ -7,7 +7,6 @@ public class NPC : MonoBehaviour {
     public int idMissao;
     private CircleCollider2D iniciarMissao;
     public Text missoes;
-    public Image img;
     private bool desativaMissao;
     // Use this for initialization
     private void Awake()
@@ -15,7 +14,7 @@ public class NPC : MonoBehaviour {
         iniciarMissao = GetComponent<CircleCollider2D>();
         missoes.text = "";
         desativaMissao = false;
-        img.gameObject.SetActive(false);
+        
     }
     void Update() {
         if (!desativaMissao) {
@@ -25,8 +24,6 @@ public class NPC : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (!desativaMissao) {
-            img.gameObject.SetActive(true);
-            missoes.text = "Vamos começar!";
             Missao.instance.setObs(idMissao);
         }
     }

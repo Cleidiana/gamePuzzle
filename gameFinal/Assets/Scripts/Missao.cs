@@ -7,8 +7,10 @@ public class Missao : MonoBehaviour {
 
     public static Missao instance;
     List<string> Mis = new List<string>();
-    private int objetivo;
+    public int objetivo = 0;
+    public int lastObjetivo = -1;
     public Text missoes;
+    public Image img;
 
     private void Awake()
     {
@@ -16,6 +18,7 @@ public class Missao : MonoBehaviour {
         {
             instance = this;
         }
+        img.gameObject.SetActive(false);
     }
     // Use this for initialization
     void Start () {
@@ -24,43 +27,37 @@ public class Missao : MonoBehaviour {
         Mis.Add("Projeto 1 - V1\nCom ajuda de um motor feche as janelas quando chover.");
 
     }
-	
-	// Update is called once per frame
-	void Update () {
-        if (objetivo != 0)
-        {
-            onTime();
-        }
-        if (objetivo == 1) {
-
-            missoes.text = Mis[0];
-        }
-        if (objetivo == 2)
-        {
-            missoes.text = Mis[1];
-        }
-    }
 
     private static void onTime()
     {
         TimeUI.instance.stTimeUI(true);
     }
+    // Update is called once per frame
+    void Update () {
+        
+        if (lastObjetivo == 0 && objetivo != 0)
+        {
+            onTime();
+            img.gameObject.SetActive(true);
+            missoes.text = Mis[objetivo - 1];
+        }
+       
+    }
 
     public void setObs(int id) {
-        objetivo = id;
+        if (id == 0) {
+            missoes.text = "";
+            img.gameObject.SetActive(false);
+            TimeUI.instance.stTimeUI(false);
+        }
+        if (id != objetivo) {
+            lastObjetivo = objetivo;
+            objetivo = id;
+        }
     }
     public int getObs()
     {
         return objetivo;
     }
 
-    public int setOkHW(int id)
-    {
-        return objetivo;
-    }
-
-    public int getIfOkHW(int id)
-    {
-        return objetivo;
-    }
 }

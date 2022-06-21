@@ -7,6 +7,10 @@ public class Missao : MonoBehaviour {
 
     public static Missao instance;
     List<string> Mis = new List<string>();
+    public AudioSource SomGeral;
+    public GameObject MissaoSom;
+    public GameObject AmbSom;
+    public GameObject pauseSom;
     public int objetivo = 0;
     public int lastObjetivo = -1;
     public Text missoes;
@@ -18,6 +22,8 @@ public class Missao : MonoBehaviour {
         {
             instance = this;
         }
+        SomGeral = AmbSom.GetComponent<AudioSource>();
+        SomGeral.Play();
         img.gameObject.SetActive(false);
     }
     // Use this for initialization
@@ -40,12 +46,16 @@ public class Missao : MonoBehaviour {
             onTime();
             img.gameObject.SetActive(true);
             missoes.text = Mis[objetivo - 1];
+
         }
        
     }
 
     public void setObs(int id) {
         if (id == 0) {
+            SomGeral.Stop();
+            SomGeral = AmbSom.GetComponent<AudioSource>();
+            SomGeral.Play();
             missoes.text = "";
             img.gameObject.SetActive(false);
             TimeUI.instance.stTimeUI(false);
@@ -54,10 +64,36 @@ public class Missao : MonoBehaviour {
             lastObjetivo = objetivo;
             objetivo = id;
         }
+        if (lastObjetivo == 0 && objetivo != 0)
+        {
+            SomGeral.Stop();
+            SomGeral = MissaoSom.GetComponent<AudioSource>();
+            SomGeral.Play();
+
+        }
     }
     public int getObs()
     {
         return objetivo;
     }
+    public void playPensar(bool test) {
+        SomGeral.Stop();
+        if (test)
+        {
+            SomGeral = pauseSom.GetComponent<AudioSource>();
+        }
+        else {
+            if (Missao.instance.getObs() == 0)
+            {
+                SomGeral = AmbSom.GetComponent<AudioSource>();
+            }
+            else {
+                SomGeral = MissaoSom.GetComponent<AudioSource>();
+            }
+            
+        }
+        SomGeral.Play();
+    }
+
 
 }

@@ -65,6 +65,17 @@ public class InventarioSlot : MonoBehaviour {
                     Programacao.instance.okHWs(2);
            
                 }
+                if (Missao.instance.getObs() == 2)
+                {
+                    if (item.name == "motor")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);   
+                    Programacao.instance.okHWs(2);
+
+                }
             }
             
         }

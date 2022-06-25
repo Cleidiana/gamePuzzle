@@ -27,53 +27,57 @@ public class interacaoInv : MonoBehaviour
         interagiu = true;
         Legenda.SetActive(true);
         textoLegenda.SetActive(true);
-        if (aux == 0)
+        if (aux == 1)
         {
             textoLegenda.GetComponent<Text>().text = "Relé \n\nRelé 3V.";
         }
-        else if (aux == 1)
+        else if (aux == 2)
         {
             textoLegenda.GetComponent<Text>().text = "Sensor de Chuva \n\nQuando há chuva a saída do sensor fica em estado baixo.";
         }
-        else if (aux == 2)
+        else if (aux == 3)
         {
             textoLegenda.GetComponent<Text>().text = "ESP32 \n\n";
         }
-        else if (aux == 3)
+        else if (aux == 4)
         {
             textoLegenda.GetComponent<Text>().text = "Motor \n\n";
         }
-        else if (aux == 4)
+        else if (aux == 5)
         {
             textoLegenda.GetComponent<Text>().text = "Sensor de temperatura e humidade(DHT11) \n\n";
         }
-        else if (aux == 5)
+        else if (aux == 6)
         {
             textoLegenda.GetComponent<Text>().text = "Buzzer \n\n";
         }
-        else if (aux == 6)
+        else if (aux == 7)
         {
             textoLegenda.GetComponent<Text>().text = "Microfone \n\n";
         }
-        else if (aux == 7)
+        else if (aux == 8)
         {
             textoLegenda.GetComponent<Text>().text = "Bateria \n\n";
         }
-        else if (aux == 8)
+        else if (aux == 9)
         {
             textoLegenda.GetComponent<Text>().text = "Sensor de corrente \n\n";
         }
-        else if (aux == 9)
+        else if (aux == 10)
         {
             textoLegenda.GetComponent<Text>().text = "Sensor de umidade no solo \n\n";
         }
-        else if (aux == 10)
+        else if (aux == 11)
         {
             textoLegenda.GetComponent<Text>().text = "Bomba para irrigação \n\n";
         }
-        else if (aux == 11)
+        else if (aux == 12)
         {
             textoLegenda.GetComponent<Text>().text = "Relé \n\nRelé 5V.";
+        }
+        else if (aux == 13)
+        {
+            textoLegenda.GetComponent<Text>().text = "Relógio \n\nRTC externo.";
         }
 
     }

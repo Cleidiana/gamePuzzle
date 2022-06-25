@@ -24,7 +24,18 @@ public class TimeUI : MonoBehaviour {
     // Use this for initialization
     void Start () {
         TimeMis.Add(60.0f);
+        TimeMis.Add(30.0f);
+        TimeMis.Add(60.0f);
+        TimeMis.Add(60.0f);
+        TimeMis.Add(60.0f);
+        TimeMis.Add(30.0f);
+        TimeMis.Add(30.0f);
+        TimeMis.Add(30.0f);
+        TimeMis.Add(60.0f);
+        TimeMis.Add(60.0f);
+        TimeMis.Add(60.0f);
         TimeMis.Add(90.0f);
+        TimeMis.Add(30.0f);
         displayCont.text = "";
         fundoTime.SetActive(false);
     }

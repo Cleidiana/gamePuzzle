@@ -65,7 +65,7 @@ public class InventarioSlot : MonoBehaviour {
                     Programacao.instance.okHWs(2);
            
                 }
-                if (Missao.instance.getObs() == 2)
+                else if (Missao.instance.getObs() == 2)
                 {
                     if (item.name == "motor")
                     {
@@ -74,6 +74,147 @@ public class InventarioSlot : MonoBehaviour {
                     }
                     Programacao.instance.okHWs(1);   
                     Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 3)
+                {
+                    if (item.name == "sensorUmidade")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "esp")
+                    {
+                        Programacao.instance.okHWs(1);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 4)
+                {
+                    if (item.name == "bombaIrrigacao")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 5)
+                {
+                    Programacao.instance.okHWs(0);
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 6)
+                {
+                    if (item.name == "esp")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "sensorCorrente")
+                    {
+                        Programacao.instance.okHWs(1);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 7)
+                {
+                    if (item.name == "sensorTemperatura")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 8)
+                {
+                    if (item.name == "rele3v")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 9)
+                {
+                    if (item.name == "esp")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "rtc")
+                    {
+                        Programacao.instance.okHWs(1);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "rele3v")
+                    {
+                        Programacao.instance.okHWs(2);
+                        Inventario.instance.RemoveItem(item);
+                    }
+
+                }
+                else if (Missao.instance.getObs() == 10)
+                {
+                    if (item.name == "rele3v")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 11)
+                {
+                    if (item.name == "buzzer")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 12)
+                {
+                    if (item.name == "bateria")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    Programacao.instance.okHWs(1);
+                    Programacao.instance.okHWs(2);
+
+                }
+                else if (Missao.instance.getObs() == 13)
+                {
+                    if (item.name == "esp")
+                    {
+                        Programacao.instance.okHWs(0);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "microfone")
+                    {
+                        Programacao.instance.okHWs(1);
+                        Inventario.instance.RemoveItem(item);
+                    }
+                    else if (item.name == "rele3v")
+                    {
+                        Programacao.instance.okHWs(2);
+                        Inventario.instance.RemoveItem(item);
+                    }
 
                 }
             }

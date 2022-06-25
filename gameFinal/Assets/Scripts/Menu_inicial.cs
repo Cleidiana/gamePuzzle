@@ -9,9 +9,11 @@ using UnityEngine.SceneManagement;
 public class Menu_inicial : MonoBehaviour {
 
     public string nomeDaCena;
+    public AudioSource SomMenu;
 
     public void MudaCena() {
         SceneManager.LoadScene(nomeDaCena);
+        SomMenu.Stop();
     }
 
     public void Sair()

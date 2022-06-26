@@ -29,11 +29,11 @@ public class interacaoInv : MonoBehaviour
         textoLegenda.SetActive(true);
         if (aux == 1)
         {
-            textoLegenda.GetComponent<Text>().text = "Relé \n\nRelé 3V.";
+            textoLegenda.GetComponent<Text>().text = "Relé \n\nRelé 3V";
         }
         else if (aux == 2)
         {
-            textoLegenda.GetComponent<Text>().text = "Sensor de Chuva \n\nQuando há chuva a saída do sensor fica em estado baixo.";
+            textoLegenda.GetComponent<Text>().text = "Sensor de Chuva \n\n";
         }
         else if (aux == 3)
         {
@@ -45,7 +45,7 @@ public class interacaoInv : MonoBehaviour
         }
         else if (aux == 5)
         {
-            textoLegenda.GetComponent<Text>().text = "Sensor de temperatura e humidade(DHT22) \n\n";
+            textoLegenda.GetComponent<Text>().text = "Sensor de temperatura e humidade (DHT22) \n\n";
         }
         else if (aux == 6)
         {

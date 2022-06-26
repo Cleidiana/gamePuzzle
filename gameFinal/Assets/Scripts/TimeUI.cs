@@ -58,6 +58,7 @@ public class TimeUI : MonoBehaviour {
                     startTime = false;
                     Missao.instance.setObs(0);
                     InventarioSlot.instance.DisableHW();
+                    Programacao.instance.limpaHWs();
                     //displayCont.text = "";
                     //fundoTime.SetActive(false);
 

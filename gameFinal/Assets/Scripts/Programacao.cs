@@ -249,9 +249,7 @@ public class Programacao : MonoBehaviour {
     private void missaoConcluida() {
         textoOut.GetComponent<Text>().text = "OK, procure a proxima missão";
         Missao.instance.setObs(0);
-        atual1 = false;
-        atual2 = false;
-        atual3 = false;
+        limpaHWs();
         InventarioSlot.instance.DisableHW();
         Missao.instance.playPensar(false);
         setOkHW(false);
@@ -1069,12 +1067,10 @@ public class Programacao : MonoBehaviour {
                 Prog12_txtInp2.SetActive(true);
                 Prog12_txtInp3.SetActive(true);
                 Prog12_txtInp4.SetActive(true);
-                Prog12_txtInp5.SetActive(true);
                 Prog12_imgInp1.SetActive(true);
                 Prog12_imgInp2.SetActive(true);
                 Prog12_imgInp3.SetActive(true);
                 Prog12_imgInp4.SetActive(true);
-                Prog12_imgInp5.SetActive(true);
                 textoDefautProg12.SetActive(true);
             }
             else if (Missao.instance.getObs() == 13)
@@ -1130,6 +1126,11 @@ public class Programacao : MonoBehaviour {
     public void setOkHW(bool val)
     {
         okHW = val;
+    }
+    public void limpaHWs() {
+        atual1 = false;
+        atual2 = false;
+        atual3 = false;
     }
     public void okHWs(int id)
     {

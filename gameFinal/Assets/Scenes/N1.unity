@@ -479,8 +479,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -388.3, y: 283.9}
+  m_SizeDelta: {x: 123.48297, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &19561433
 MonoBehaviour:
@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -620,8 +620,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -397.27, y: 123.3}
+  m_SizeDelta: {x: 73.87027, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &25649845
 MonoBehaviour:
@@ -700,7 +700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1349,7 +1349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &54350814
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2042,8 +2042,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -362.97, y: -99.1}
+  m_SizeDelta: {x: 78.245575, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &103965401
 MonoBehaviour:
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2183,8 +2183,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -420.11993, y: 189.4}
+  m_SizeDelta: {x: 28.179535, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &110813512
 MonoBehaviour:
@@ -2263,7 +2263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2321,8 +2321,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &126521774
 MonoBehaviour:
@@ -2348,7 +2348,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -2356,19 +2356,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle;\r\nvoid vTaskSensors(void
+    *pvParameter);\r\nstatic uint8_t valCor, [valTemp], valUmd;\r\n\r\nvoid app_main(void){\r\n   
+    bth_start();                    \r\n\tsensorCor_init();\t\r\n\t[sensorTempUmd_init();]\t\r\n   
+    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL,
+    [CONFIG_TASK_PRIO_VERY_LOW], &xTaskSensorsHandle); \t\r\n}\r\nvoid vTaskSensors(void
+    *pvParameter){\r\n    while (1){\r\n\t\tvalCor = sensorCor_meas();\r\n       
+    bthPub_val(\"corrArCond\", valCor);\r\n\t\tvalTemp = [sensorTempUmd_measTemp();]\r\n       
+    bthPub_val(\"tempAmb\", valTemp);\r\n\t\tvalUmd = [sensorTempUmd_measUmd();]\r\n       
+    bthPub_val(\"umdAmb\", valUmd);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n   
+    }\r\n}"
 --- !u!222 &126521775
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2492,8 +2489,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -401.73, y: 268.4}
+  m_SizeDelta: {x: 96.54486, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &146572119
 MonoBehaviour:
@@ -2572,7 +2569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2873,8 +2870,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -377.47, y: -99.1}
+  m_SizeDelta: {x: 57.12491, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &169707903
 MonoBehaviour:
@@ -2953,7 +2950,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -3294,8 +3291,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &214575873
 MonoBehaviour:
@@ -3321,7 +3318,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -3329,19 +3326,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valRTC_hr, [valRTC_min;]\r\n\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\",
+    \"ronaldo12345\");                                 \r\n    mqtt_start();                   
+    \r\n\tRTC_init();\t\r\n\trele_init();\t\r\n    [Buzzer_init();]\t\r\n    xTaskCreate(vTaskOutput,
+    \"taskOutput\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
+    (1){\r\n\t\tvalRTC_hr = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n\t\tif((valRTC_hr
+    == 7) && (valRTC_min == 30)){\r\n\t\t\t[buzzerSet_state]([1], [300]);\r\n\t\t\tmqttPub_val(\"alerta\",
+    1);\r\n\t\t}\r\n\t\tif(((valRTC_hr == 8) && (valRTC_min == 0)) || \r\n\t\t\t((valRTC_hr
+    == 17) && (valRTC_min == 0)){\r\n\t\t\treleSet_state(2, 1, 5);\r\n\t\t\tmqttPub_val(\"racao\",
+    1);\r\n\t\t}\r\n\t\tif((valRTC_hr == 7) && (valRTC_min == 0)){\r\n\t\t\treleSet_state(3,
+    1, 300);\r\n\t\t\tmqttPub_val(\"cafe\", 1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*120);\r\n   
+    }\r\n}"
 --- !u!222 &214575874
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3384,8 +3382,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &215149952
 MonoBehaviour:
@@ -3411,7 +3409,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -3419,19 +3417,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valRTC_hr, valRTC_min;\r\nvoid app_main(void){\r\n    [ble_start();]                  
+    \r\n\tRTC_init();\t\r\n\tBuzzer_init();\r\n\trele_init();\t\t\r\n    xTaskCreate(vTaskOutput,
+    \"taskOutput\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
+    (1){\r\n\t\tvalRTC_hr = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n       
+    if(((valRTC_hr == 8) && (valRTC_min == 0)) || \r\n\t\t\t((valRTC_hr == 17) &&
+    (valRTC_min == 0)){\r\n\t\t\treleSet_state(2, 1, 5);\r\n\t\t\t[blePub_val](\"racao\",
+    1);\r\n\t\t}\r\n\t\tif((valRTC_hr == 7) && (valRTC_min == 0)){\r\n\t\t\treleSet_state(3,
+    1, 300);\r\n\t\t\t[blePub_val](\"cafe\", 1);\r\n\t\t}\r\n\t\tif((valRTC_hr ==
+    7) && (valRTC_min == 30)){\r\n\t\t\tbuzzerSet_state(1, 300);\r\n\t\t\t[blePub_val](\"alerta\",
+    1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*120);\r\n    }\r\n}"
 --- !u!222 &215149953
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3477,8 +3475,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -290.86, y: -17.8}
+  m_SizeDelta: {x: 16.74482, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &218095621
 MonoBehaviour:
@@ -3557,7 +3555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -32118,8 +32116,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &227434985
 MonoBehaviour:
@@ -32145,7 +32143,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -32153,19 +32151,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle;\r\nvoid vTaskSensors(void
+    *pvParameter);\r\nstatic uint8_t valUmid;\r\n\r\nvoid app_main(void){\r\n   
+    [bth]_start();                     \r\n\t[sensorUmd]_init();\t\r\t\r\n    xTaskCreate(vTaskSensors,
+    \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &xTaskSensorsHandle); \t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n   
+    while (1){\r\n\t\tvalUmid = [sensorUmid]_meas();\r\n        [bthPub]_val(\"umdPlanta\",
+    valUmd);\r\n\t\tvTaskDelay([pdMS_TO_TICKS(1000)]*600);\r\n    }\r\n}"
 --- !u!222 &227434986
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32252,84 +32244,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 232885140}
   m_CullTransparentMesh: 0
---- !u!1 &245943268
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 245943269}
-  - component: {fileID: 245943271}
-  - component: {fileID: 245943270}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &245943269
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 245943268}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1835391624}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: 0.0000038146973}
-  m_SizeDelta: {x: 0.00012207031, y: -0.000019073486}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &245943270
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 245943268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.8705883, g: 0.9333334, b: 0.83921576, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 0
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 
---- !u!222 &245943271
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 245943268}
-  m_CullTransparentMesh: 0
 --- !u!1 &249497676
 GameObject:
   m_ObjectHideFlags: 0
@@ -32367,8 +32281,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -250.2, y: -2.7}
+  m_SizeDelta: {x: 206.51492, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &249497678
 MonoBehaviour:
@@ -32447,7 +32361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -32470,84 +32384,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249497676}
-  m_CullTransparentMesh: 0
---- !u!1 &251088997
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 251088998}
-  - component: {fileID: 251089000}
-  - component: {fileID: 251088999}
-  m_Layer: 5
-  m_Name: Placeholder
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &251088998
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 251088997}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1835391624}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000091552734, y: 0.000036239624}
-  m_SizeDelta: {x: 0.000061035156, y: 0.000045776367}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &251088999
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 251088997}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.5}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
-    m_FontStyle: 2
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 
---- !u!222 &251089000
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 251088997}
   m_CullTransparentMesh: 0
 --- !u!1 &261693256
 GameObject:
@@ -32742,8 +32578,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: 48.52, y: 108}
+  m_SizeDelta: {x: 31.883179, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &277073066
 MonoBehaviour:
@@ -32822,7 +32658,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -32966,7 +32802,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.9463575
+      m_AnimationSpeed: 2.6961114
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -33136,8 +32972,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -377.47003, y: 59.299995}
+  m_SizeDelta: {x: 79.40842, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &312300736
 MonoBehaviour:
@@ -33216,7 +33052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -33355,8 +33191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -263.99, y: -68}
+  m_SizeDelta: {x: 17.779816, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &319272323
 MonoBehaviour:
@@ -33435,7 +33271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -33869,8 +33705,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -133.99998, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &338977426
 MonoBehaviour:
@@ -33896,7 +33732,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -33904,19 +33740,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle;\nvoid vTaskSensors(void
+    *pvParameter);\r\nstatic uint8_t valChuva;\r\n\r\nvoid app_main(void){\r\n   
+    wifi_start(\"Ronaldo\", \"ronaldo12345\");                                 \r\n   
+    mqtt_start();                    \r\n\tsensorChuva_init();\t\r\n\tmotor_init();\t\t\r\n   
+    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL,
+    CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle); \r\n    xTaskCreate([vTaskOutput],
+    \"taskOutput\", configMINIMAL_STACK_SIZE+512, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n   
+    while (1){\r\n\t\tvalChuva = [sensorChuva_meas();]\r\n        mqttPub_val(\"chuva\",
+    valChuva);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n    }\r\n}\r\nvoid
+    vTaskOutput(void *pvParameter){\r\n    while (1){\r\n        if([valChuva] ==
+    1){\r\n\t\t\t[motorSet_rot(valChuva);]\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[5]);\r\n   
+    }\r\n}"
 --- !u!222 &338977427
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34093,7 +33929,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &379425799
 RectTransform:
   m_ObjectHideFlags: 0
@@ -34110,8 +33946,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: 0.0000038146973}
-  m_SizeDelta: {x: 0.00012207031, y: -0.000019073486}
+  m_AnchoredPosition: {x: -66.23, y: 14.5}
+  m_SizeDelta: {x: -121.65344, y: -0.000019073486}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &379425800
 MonoBehaviour:
@@ -34353,8 +34189,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -391.26, y: 108}
+  m_SizeDelta: {x: 89.41867, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &408840377
 MonoBehaviour:
@@ -34433,7 +34269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -34494,8 +34330,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
+  m_AnchoredPosition: {x: -358.29, y: -117.1}
+  m_SizeDelta: {x: 95.4816, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &432690941
 MonoBehaviour:
@@ -34574,7 +34410,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -34631,12 +34467,12 @@ RectTransform:
   - {fileID: 85288151}
   - {fileID: 134667747}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 83
+  m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -304.5, y: -2.7}
+  m_SizeDelta: {x: 15.95105, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &440903488
 MonoBehaviour:
@@ -34715,7 +34551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -34776,8 +34612,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -337.64, y: 171.4}
+  m_SizeDelta: {x: 70.77786, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &447458094
 MonoBehaviour:
@@ -34856,7 +34692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -34917,8 +34753,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -170.4, y: -163.7}
+  m_SizeDelta: {x: 15.721832, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &459342779
 MonoBehaviour:
@@ -34997,7 +34833,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -35136,8 +34972,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -320.5, y: -133}
+  m_SizeDelta: {x: 165.19324, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &467890499
 MonoBehaviour:
@@ -35216,7 +35052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -46083,7 +45919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.5}
+  m_Color: {r: 0.45882356, g: 0.4431373, b: 0.3803922, a: 0.56078434}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -46145,8 +45981,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -5.5, y: 18.124}
-  m_SizeDelta: {x: -134.14392, y: -314.36514}
+  m_AnchoredPosition: {x: -5.000004, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &497080191
 MonoBehaviour:
@@ -46172,7 +46008,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -46180,17 +46016,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xTaskSensorsHandle;\r\nvoid vTaskSensors(void
-    *pvParameter);\r\n\r\nvoid app_main(void)\r\n{\r\n                                        
-    //fun\xE7\xE3o para conectar na rede wifi \r\n                                        
-    //fun\xE7\xE3o para conectar no brocker MQTT\r\n\t                                    
-    //fun\xE7\xE3o para iniciar o sensor de chuva\r\n    xTaskCreate(vTaskSensors,
-    \"taskSensors\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xTaskSensorsHandle);  \r\n\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n\r\n   
-    while (1)\r\n    {\r\n                                                                                                      
-    //fun\xE7\xE3o para enviar a leitura do sensor por MQTT\r\n                                                                                                                
-    //fa\xE7a o envio de 10 em 10min\r\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valChuva;\r\n\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\",
+    \"ronaldo12345\");                                 \r\n    mqtt_start();                   
+    \r\n\tsensorChuva_init();\t\r\n    xTaskCreate(vTaskSensors, \"taskSensors\",
+    configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &[xTaskSensorsHandle]);
+    \t\t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\t[valChuva]
+    = [sensorChuva]_meas();\r\n        mqttPub_val(\"chuva\", [valChuva]);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[600]);\r\n   
+    }\r\n}"
 --- !u!222 &497080192
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -46236,8 +46070,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -390.38, y: 139.21}
+  m_SizeDelta: {x: 87.660645, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &499466539
 MonoBehaviour:
@@ -46316,7 +46150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -46455,8 +46289,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -355.75, y: -68.000015}
+  m_SizeDelta: {x: 90.408966, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &503592502
 MonoBehaviour:
@@ -46535,7 +46369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -52571,8 +52405,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
+  m_AnchoredPosition: {x: -242.42, y: 27.776}
+  m_SizeDelta: {x: 212.96954, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &551295480
 MonoBehaviour:
@@ -52651,7 +52485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -52990,12 +52824,12 @@ RectTransform:
   - {fileID: 1365679838}
   - {fileID: 2114691736}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 85
+  m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -304.5, y: -68.335}
+  m_SizeDelta: {x: 15.956207, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &576300935
 MonoBehaviour:
@@ -53074,7 +52908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -53342,8 +53176,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -256.74002, y: 44.276}
+  m_SizeDelta: {x: 164.01984, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &612055989
 MonoBehaviour:
@@ -53422,7 +53256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -53615,7 +53449,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.2039328
+      m_AnimationSpeed: 2.665832
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -53778,7 +53612,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 632660712}
-  m_RootOrder: 92
+  m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -54002,8 +53836,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -389.32, y: 108}
+  m_SizeDelta: {x: 93.30087, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &631623515
 MonoBehaviour:
@@ -54082,7 +53916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -54143,8 +53977,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
+  m_AnchoredPosition: {x: -390.7, y: 60.4}
+  m_SizeDelta: {x: 53.078613, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &631890779
 MonoBehaviour:
@@ -54223,7 +54057,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -54419,7 +54253,6 @@ RectTransform:
   - {fileID: 834058151}
   - {fileID: 103965400}
   - {fileID: 1276997313}
-  - {fileID: 1835391624}
   - {fileID: 1624431064}
   - {fileID: 440903487}
   - {fileID: 821136801}
@@ -54427,7 +54260,6 @@ RectTransform:
   - {fileID: 777583077}
   - {fileID: 877259204}
   - {fileID: 767238587}
-  - {fileID: 2002761337}
   - {fileID: 2094519825}
   - {fileID: 1217110150}
   - {fileID: 628802028}
@@ -54570,8 +54402,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -354.18, y: 157.21}
+  m_SizeDelta: {x: 157.65506, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &644891930
 MonoBehaviour:
@@ -54650,7 +54482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -54939,9 +54771,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -16.43211, y: 1.51768}
+  m_Offset: {x: -16.43211, y: 1.2145866}
   serializedVersion: 2
-  m_Radius: 0.40078545
+  m_Radius: 0.70388067
 --- !u!4 &684729842
 Transform:
   m_ObjectHideFlags: 0
@@ -55007,8 +54839,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -245.60986, y: -35.8}
+  m_SizeDelta: {x: 30.85788, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &685950406
 MonoBehaviour:
@@ -55087,7 +54919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -55721,7 +55553,7 @@ RectTransform:
   m_Children:
   - {fileID: 1887536019}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 88
+  m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -55901,12 +55733,12 @@ RectTransform:
   - {fileID: 1521772440}
   - {fileID: 2122260907}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 86
+  m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -170.4, y: -117.1}
+  m_SizeDelta: {x: 15.718262, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &777583078
 MonoBehaviour:
@@ -55985,7 +55817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -56129,7 +55961,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.4256372
+      m_AnimationSpeed: 2.1949427
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -56304,7 +56136,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.523085
+      m_AnimationSpeed: 2.6483693
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -56541,7 +56373,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.3857355
+      m_AnimationSpeed: 2.8468666
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -56645,12 +56477,12 @@ RectTransform:
   - {fileID: 2049421183}
   - {fileID: 963983050}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 84
+  m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -370.85, y: -50.335}
+  m_SizeDelta: {x: 60.216003, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &821136802
 MonoBehaviour:
@@ -56729,7 +56561,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -56946,8 +56778,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -362.98, y: -35.800003}
+  m_SizeDelta: {x: 78.25665, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &834058152
 MonoBehaviour:
@@ -57026,7 +56858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -57133,8 +56965,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -358.29, y: -148.3}
+  m_SizeDelta: {x: 95.47641, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &838602834
 MonoBehaviour:
@@ -57213,7 +57045,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -57360,9 +57192,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 9.575476, y: -34.46989}
+  m_Offset: {x: 9.575476, y: -34.745323}
   serializedVersion: 2
-  m_Radius: 0.378376
+  m_Radius: 0.6538086
 --- !u!4 &865028044
 Transform:
   m_ObjectHideFlags: 0
@@ -57414,8 +57246,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -397.41, y: 171.4}
+  m_SizeDelta: {x: 73.585266, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &867167948
 MonoBehaviour:
@@ -57494,7 +57326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -57591,7 +57423,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 632660712}
-  m_RootOrder: 87
+  m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.264, y: 0.20444794}
   m_AnchorMax: {x: 0.74834377, y: 0.3}
@@ -57911,7 +57743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -57953,8 +57785,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -384.99, y: 43.9}
+  m_SizeDelta: {x: 66.331726, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &906394240
 GameObject:
@@ -58206,9 +58038,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -27.395683, y: -18.523376}
+  m_Offset: {x: -27.395683, y: -18.81529}
   serializedVersion: 2
-  m_Radius: 0.3636322
+  m_Radius: 0.6555462
 --- !u!4 &908941966
 Transform:
   m_ObjectHideFlags: 0
@@ -58260,8 +58092,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -287.7, y: 237}
+  m_SizeDelta: {x: 65.19502, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &912012909
 MonoBehaviour:
@@ -58340,7 +58172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -58767,7 +58599,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.8617637
+      m_AnimationSpeed: 2.582862
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59121,7 +58953,7 @@ Tilemap:
   m_GameObject: {fileID: 956276653}
   m_Enabled: 1
   m_Tiles:
-  - first: {x: 1, y: -49, z: 0}
+  - first: {x: 20, y: -46, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -59131,12 +58963,12 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741824
   m_AnimatedTiles:
-  - first: {x: 1, y: -49, z: 0}
+  - first: {x: 20, y: -46, z: 0}
     second:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.4148498
+      m_AnimationSpeed: 2.808305
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59389,7 +59221,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.0721107
+      m_AnimationSpeed: 2.6456096
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59642,7 +59474,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.2309544
+      m_AnimationSpeed: 2.7264435
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59792,7 +59624,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &991229260
 RectTransform:
   m_ObjectHideFlags: 0
@@ -60013,8 +59845,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -251.35, y: -35.8}
+  m_SizeDelta: {x: 19.37851, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1009475365
 MonoBehaviour:
@@ -60093,7 +59925,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -60154,8 +59986,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -241.85, y: 171.4}
+  m_SizeDelta: {x: 106.40906, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1023297170
 MonoBehaviour:
@@ -60234,7 +60066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -60747,8 +60579,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -322.28, y: -99.1}
+  m_SizeDelta: {x: 23.472427, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1051763603
 MonoBehaviour:
@@ -60827,7 +60659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -60888,8 +60720,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -162.6, y: -83.3}
+  m_SizeDelta: {x: 31.314941, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1056394903
 MonoBehaviour:
@@ -60968,7 +60800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -61574,8 +61406,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1101318611
 MonoBehaviour:
@@ -61601,7 +61433,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -61609,19 +61441,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle;\r\nvoid vTaskSensors(void
+    *pvParameter);\r\nstatic uint8_t [valCor;]\r\n\r\nvoid app_main(void){\r\n   
+    [bth_start();]                    \r\n\t[sensorCor]_init();\t\r\n    xTaskCreate(vTaskSensors,
+    \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &xTaskSensorsHandle); \t\t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n   
+    while (1){\r\n\t\tvalCor = [sensorCor_meas();]\r\n        [bthPub_val](\"corrArCond\",
+    valCor);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n    }\r\n}"
 --- !u!222 &1101318612
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61667,8 +61493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -395.33, y: 139.21}
+  m_SizeDelta: {x: 77.74982, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1113852538
 MonoBehaviour:
@@ -61747,7 +61573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -62048,8 +61874,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -308.79, y: 78.4}
+  m_SizeDelta: {x: 84.249695, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1160659866
 MonoBehaviour:
@@ -62128,7 +61954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -62593,7 +62419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -62635,8 +62461,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -287.84, y: 43.9}
+  m_SizeDelta: {x: 92.3616, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1191526591
 GameObject:
@@ -62909,8 +62735,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
+  m_AnchoredPosition: {x: -278.25, y: -35.8}
+  m_SizeDelta: {x: 16.208298, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1202220527
 MonoBehaviour:
@@ -62989,7 +62815,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -63199,7 +63025,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 632660712}
-  m_RootOrder: 91
+  m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -63417,7 +63243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -63459,8 +63285,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.66, y: 61.9}
-  m_SizeDelta: {x: 144.69763, y: 18}
+  m_AnchoredPosition: {x: -304.97, y: 75.932}
+  m_SizeDelta: {x: 87.868866, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1256865543
 GameObject:
@@ -63931,8 +63757,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -362.4, y: -163.15}
+  m_SizeDelta: {x: 77.111206, y: 19.09999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1276997314
 MonoBehaviour:
@@ -64011,7 +63837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -64303,8 +64129,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1292229048
 MonoBehaviour:
@@ -64330,7 +64156,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -64338,19 +64164,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valMicro;\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\", \"ronaldo12345\");                                 
+    \r\n    mqtt_start();        \r\n\trele_init();\t\r\n\tmicrof_init();\t\r\n   
+    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL,
+    CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle); \r\n    xTaskCreate(vTaskOutput,
+    \"taskOutput\", configMINIMAL_STACK_SIZE+512, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
+    (1){\r\n        if([valMicro]){\r\n\t\t\treleSet_state([4], 1, 0);\r\n\t\t\tmqttPub_val(\"luzes\",
+    1);\r\n\t\t}\r\n\t\tif(![valMicro]){\r\n\t\t\treleSet_state([4], 0, 0);\r\n\t\t\tmqttPub_val(\"luzes\",
+    0);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[5]);\r\n    }\r\n}\r\nvoid
+    vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\tvalMicro = microLamp_meas();\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000));\r\n   
+    }\r\n}"
 --- !u!222 &1292229049
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -64552,8 +64378,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -356.22, y: -101.3}
+  m_SizeDelta: {x: 93.747406, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1303052730
 MonoBehaviour:
@@ -64632,7 +64458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -64701,9 +64527,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.585239, y: -10.530094}
+  m_Offset: {x: 14.585239, y: -10.805938}
   serializedVersion: 2
-  m_Radius: 0.39253998
+  m_Radius: 0.6683836
 --- !u!4 &1306110651
 Transform:
   m_ObjectHideFlags: 0
@@ -64935,9 +64761,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.595676, y: 1.459311}
+  m_Offset: {x: 14.595676, y: 1.2410779}
   serializedVersion: 2
-  m_Radius: 0.35015106
+  m_Radius: 0.5683861
 --- !u!4 &1316400183
 Transform:
   m_ObjectHideFlags: 0
@@ -65204,7 +65030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -65246,8 +65072,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -245.40997, y: 27.41}
+  m_SizeDelta: {x: 68.27103, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1335577154
 GameObject:
@@ -65283,7 +65109,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000091552734, y: 0.000036239624}
+  m_AnchoredPosition: {x: -0.000091552734, y: 0.000034332275}
   m_SizeDelta: {x: 0.000061035156, y: 0.000045776367}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1335577156
@@ -65372,9 +65198,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -27.425713, y: -6.466717}
+  m_Offset: {x: -27.425713, y: -6.679532}
   serializedVersion: 2
-  m_Radius: 0.34829426
+  m_Radius: 0.56110954
 --- !u!4 &1360393618
 Transform:
   m_ObjectHideFlags: 0
@@ -66015,7 +65841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -66057,9 +65883,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -164.20999, y: 13.346008}
+  m_SizeDelta: {x: 32.19223, y: 18}
+  m_Pivot: {x: 0.4636554, y: 0.5624003}
 --- !u!1 &1405274175
 GameObject:
   m_ObjectHideFlags: 0
@@ -66286,8 +66112,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -242.5, y: -101.3}
+  m_SizeDelta: {x: 37.070923, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1437142766
 MonoBehaviour:
@@ -66366,7 +66192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -66473,8 +66299,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1453018219
 MonoBehaviour:
@@ -66500,7 +66326,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -66508,19 +66334,17 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valRTC_hr, valRTC_min;\r\n\r\nvoid app_main(void){\r\n    wifi_start([\"Ronaldo\"],
+    [\"ronaldo12345\"]);                                 \r\n    mqtt_start();                   
+    \r\n\t[RTC_init();]\t\r\n\trele_init();\t\t\r\n    xTaskCreate(vTaskOutput, \"taskOutput\",
+    configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &vTaskOutput);
+    \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n\t\tvalRTC_hr
+    = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n        if(((valRTC_hr ==
+    8) && [(valRTC_min == 0)]) || \r\n\t\t\t((valRTC_hr == 17) && [(valRTC_min ==
+    0)]){\r\n\t\t\treleSet_state([2], 1, 5);\r\n\t\t\tmqttPub_val(\"racao\", 1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[120]);\r\n   
+    }\r\n}"
 --- !u!222 &1453018220
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66566,8 +66390,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 43.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -393.83, y: 171.4}
+  m_SizeDelta: {x: 80.750946, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1458865306
 MonoBehaviour:
@@ -66646,7 +66470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -66707,8 +66531,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -376.08, y: 237}
+  m_SizeDelta: {x: 87.92862, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1480888722
 MonoBehaviour:
@@ -66787,7 +66611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -66845,8 +66669,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -4.919, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1491585017
 MonoBehaviour:
@@ -66872,7 +66696,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -66880,19 +66704,21 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valCor, valTemp, valUmd;\r\n\r\nvoid app_main(void){\r\n    bth_start();                   
+    \r\n\tsensorCor_init();\t\r\n\tsensorTempUmd_init();\t\r\n\trele_init();\t\t\r\n   
+    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL,
+    CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle); \r\n    xTaskCreate(vTaskOutput,
+    \"taskOutput\", configMINIMAL_STACK_SIZE+512, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
+    (1){\r\n        if(valTemp < 25){\r\n\t\t\tif(releGet_state([1]) == 1){\r\n\t\t\t\t[releSet_state](1,
+    0, [0]);\r\n\t\t\t}\r\n\t\t\t[releSet_state](1, 1, [0]);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*5);\r\n   
+    }\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\tvalCor
+    = sensorCor_meas();\r\n        bthPub_val(\"corrArCond\", valCor);\r\n\t\tvalTemp
+    = sensorTempUmd_measTemp();\r\n        bthPub_val(\"tempAmb\", valTemp);\r\n\t\tvalUmd
+    = sensorTempUmd_measUmd();\r\n        bthPub_val(\"umdAmb\", valUmd);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n   
+    }\r\n}\r\n"
 --- !u!222 &1491585018
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -67055,7 +66881,7 @@ Tilemap:
   m_GameObject: {fileID: 1514996572}
   m_Enabled: 1
   m_Tiles:
-  - first: {x: 43, y: -46, z: 0}
+  - first: {x: 1, y: -50, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -67065,12 +66891,12 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741824
   m_AnimatedTiles:
-  - first: {x: 43, y: -46, z: 0}
+  - first: {x: 1, y: -50, z: 0}
     second:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.4095178
+      m_AnimationSpeed: 2.1778421
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -67104,8 +66930,8 @@ Tilemap:
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: 0, y: -46, z: 0}
-  m_Size: {x: 44, y: 46, z: 1}
+  m_Origin: {x: 0, y: -50, z: 0}
+  m_Size: {x: 44, y: 50, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -67318,8 +67144,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -371.98, y: -115}
+  m_SizeDelta: {x: 68.099335, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1528506156
 MonoBehaviour:
@@ -67398,7 +67224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -67620,7 +67446,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.1865797
+      m_AnimationSpeed: 2.7007613
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -67795,7 +67621,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.355411
+      m_AnimationSpeed: 2.335661
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -67965,8 +67791,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -295.4, y: 77.3}
+  m_SizeDelta: {x: 130.43811, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1576557418
 MonoBehaviour:
@@ -68045,7 +67871,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -68197,86 +68023,6 @@ RectTransform:
   m_AnchoredPosition: {x: 537.512, y: 709.02}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1584707585
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1584707586}
-  - component: {fileID: 1584707588}
-  - component: {fileID: 1584707587}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1584707586
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1584707585}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2002761337}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1584707587
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1584707585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: '
-
-'
---- !u!222 &1584707588
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1584707585}
-  m_CullTransparentMesh: 0
 --- !u!1 &1597677924
 GameObject:
   m_ObjectHideFlags: 0
@@ -68437,12 +68183,12 @@ RectTransform:
   - {fileID: 566158810}
   - {fileID: 644574014}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 82
+  m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -375.36, y: 12.223}
+  m_SizeDelta: {x: 61.33957, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1624431065
 MonoBehaviour:
@@ -68521,7 +68267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -68816,8 +68562,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
+  m_AnchoredPosition: {x: -273.54, y: -101.3}
+  m_SizeDelta: {x: 17.88739, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1650746927
 MonoBehaviour:
@@ -68896,7 +68642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -69199,9 +68945,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -27.436218, y: -42.438293}
+  m_Offset: {x: -8.402713, y: -39.477905}
   serializedVersion: 2
-  m_Radius: 0.406353
+  m_Radius: 0.37784576
 --- !u!4 &1680232228
 Transform:
   m_ObjectHideFlags: 0
@@ -69336,7 +69082,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.6666505
+      m_AnimationSpeed: 2.1049354
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -69436,9 +69182,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -27.401272, y: -30.524189}
+  m_Offset: {x: -27.401272, y: -30.799831}
   serializedVersion: 2
-  m_Radius: 0.34604263
+  m_Radius: 0.621685
 --- !u!4 &1695177949
 Transform:
   m_ObjectHideFlags: 0
@@ -69633,7 +69379,7 @@ MonoBehaviour:
   Prog12_imgInp2: {fileID: 834058150}
   Prog12_imgInp3: {fileID: 103965399}
   Prog12_imgInp4: {fileID: 1276997312}
-  Prog12_imgInp5: {fileID: 1835391623}
+  Prog12_imgInp5: {fileID: 0}
   Prog13_imgInp1: {fileID: 1624431063}
   Prog13_imgInp2: {fileID: 440903486}
   Prog13_imgInp3: {fileID: 821136800}
@@ -69698,7 +69444,7 @@ MonoBehaviour:
   Prog12_txtInp2: {fileID: 1093544163}
   Prog12_txtInp3: {fileID: 488521900}
   Prog12_txtInp4: {fileID: 1212149195}
-  Prog12_txtInp5: {fileID: 245943268}
+  Prog12_txtInp5: {fileID: 0}
   Prog13_txtInp1: {fileID: 644574013}
   Prog13_txtInp2: {fileID: 134667746}
   Prog13_txtInp3: {fileID: 963983049}
@@ -69708,7 +69454,6 @@ MonoBehaviour:
   computador: {fileID: 54350813}
   build: {fileID: 767238586}
   saiHW: {fileID: 1059567391}
-  ota: {fileID: 2002761336}
   fecha: {fileID: 2094519824}
   txtHW: {fileID: 834657784}
   tileN1_0: {fileID: 814379097}
@@ -69813,9 +69558,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.57149, y: -39.354893}
+  m_Offset: {x: -27.409575, y: -43.4683}
   serializedVersion: 2
-  m_Radius: 0.38154984
+  m_Radius: 0.3908615
 --- !u!4 &1731010639
 Transform:
   m_ObjectHideFlags: 0
@@ -69945,8 +69690,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -347.02, y: -35.79998}
+  m_SizeDelta: {x: 112.144165, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1738412003
 MonoBehaviour:
@@ -70025,7 +69770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -70483,8 +70228,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1760509594
 MonoBehaviour:
@@ -70510,7 +70255,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -70518,19 +70263,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valRTC_hr, valRTC_min;\r\n\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\",
+    \"ronaldo12345\");                                 \r\n    mqtt_start();                   
+    \r\n\tRTC_init();\t\r\n\t[rele_init();]\t\t\r\n    xTaskCreate(vTaskOutput, \"taskOutput\",
+    configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &vTaskOutput);
+    \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n\t\tvalRTC_hr
+    = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n        if(((valRTC_hr ==
+    8) && (valRTC_min == 0)) || \r\n\t\t\t((valRTC_hr == 17) && (valRTC_min == 0)){\r\n\t\t\treleSet_state(2,
+    1, 5);\r\n\t\t\tmqttPub_val(\"racao\", 1);\r\n\t\t}\r\n\t\tif((valRTC_hr == 7)
+    && (valRTC_min == 0)){\r\n\t\t\t[releSet_state]([3], [1], [300]);\r\n\t\t\tmqttPub_val(\"cafe\",
+    1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*120);\r\n    }\r\n}"
 --- !u!222 &1760509595
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -70634,8 +70378,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1779640100
 MonoBehaviour:
@@ -70661,7 +70405,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -70669,19 +70413,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "[#include \"main.h\"]\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
+    uint8_t valUmid;\r\n\r\nvoid app_main(void){\r\n    bth_start();                    
+    \r\n\tsensorUmd_init();\t\r\n\tirrig_init();\t\t\r\n    xTaskCreate(vTaskSensors,
+    \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &xTaskSensorsHandle); \r\n    xTaskCreate(vTaskOutput, \"taskOutput\", configMINIMAL_STACK_SIZE+512,
+    \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &vTaskOutput); \t\t\t\t\r\n}\r\nvoid
+    vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\tvalUmid = sensorUmid_meas();\r\n       
+    bthPub_val(\"umdPlanta\", valUmd);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n   
+    }\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n        if([valUmd]
+    < [70]){\r\n\t\t\t[irrigSet_state](true);\r\n\t\t}else{\r\n\t\t\t[irrigSet_state](false);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*5);\r\n   
+    }\r\n}"
 --- !u!222 &1779640101
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -70847,7 +70590,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000091552734, y: 0.000036239624}
+  m_AnchoredPosition: {x: -0.000091552734, y: 0.000038146973}
   m_SizeDelta: {x: 0.000061035156, y: 0.000045776367}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1804262025
@@ -71269,8 +71012,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227.1, y: -97.3}
-  m_SizeDelta: {x: 373.07767, y: 18}
+  m_AnchoredPosition: {x: -225.2, y: 124.7}
+  m_SizeDelta: {x: 234.93991, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1831571479
 MonoBehaviour:
@@ -71349,7 +71092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -71372,147 +71115,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1831571477}
-  m_CullTransparentMesh: 0
---- !u!1 &1835391623
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1835391624}
-  - component: {fileID: 1835391627}
-  - component: {fileID: 1835391626}
-  - component: {fileID: 1835391625}
-  m_Layer: 5
-  m_Name: 12_Input5
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &1835391624
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835391623}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 251088998}
-  - {fileID: 245943269}
-  m_Father: {fileID: 632660712}
-  m_RootOrder: 81
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -151.00002}
-  m_SizeDelta: {x: 213.41672, y: 18}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1835391625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835391623}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_SelectedTrigger: Highlighted
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 1835391626}
-  m_TextComponent: {fileID: 245943270}
-  m_Placeholder: {fileID: 251088999}
-  m_ContentType: 0
-  m_InputType: 0
-  m_AsteriskChar: 42
-  m_KeyboardType: 0
-  m_LineType: 0
-  m_HideMobileInput: 0
-  m_CharacterValidation: 0
-  m_CharacterLimit: 0
-  m_OnEndEdit:
-    m_PersistentCalls:
-      m_Calls: []
-  m_OnValueChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_CustomCaretColor: 0
-  m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: 
-  m_CaretBlinkRate: 0.85
-  m_CaretWidth: 1
-  m_ReadOnly: 0
-  m_ShouldActivateOnSelect: 1
---- !u!114 &1835391626
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835391623}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1835391627
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835391623}
   m_CullTransparentMesh: 0
 --- !u!224 &1835531727 stripped
 RectTransform:
@@ -71557,8 +71159,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -244.48, y: 219}
+  m_SizeDelta: {x: 92.944916, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1842544097
 MonoBehaviour:
@@ -71637,7 +71239,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -72747,7 +72349,7 @@ RectTransform:
   - {fileID: 1170677422}
   - {fileID: 27321662}
   m_Father: {fileID: 632660712}
-  m_RootOrder: 93
+  m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -72828,8 +72430,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -395.33, y: 189.40002}
+  m_SizeDelta: {x: 79.51486, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1932882243
 MonoBehaviour:
@@ -72908,7 +72510,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -73260,9 +72862,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -21.494513, y: -22.44698}
+  m_Offset: {x: -21.494513, y: -22.77385}
   serializedVersion: 2
-  m_Radius: 0.34915352
+  m_Radius: 0.6760254
 --- !u!4 &1958436361
 Transform:
   m_ObjectHideFlags: 0
@@ -73526,8 +73128,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.81, y: -133}
-  m_SizeDelta: {x: 213.45456, y: 18}
+  m_AnchoredPosition: {x: -296.91, y: -101.3}
+  m_SizeDelta: {x: 17.236603, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1966015601
 MonoBehaviour:
@@ -73606,7 +73208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -73667,8 +73269,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -395.32996, y: 189.40001}
+  m_SizeDelta: {x: 77.750946, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1980201220
 MonoBehaviour:
@@ -73747,7 +73349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -73808,8 +73410,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.12, y: 79.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -27.1, y: 108}
+  m_SizeDelta: {x: 141.41614, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1985139650
 MonoBehaviour:
@@ -73835,7 +73437,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.9019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -73888,7 +73490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -73949,8 +73551,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -341, y: -35.799988}
+  m_SizeDelta: {x: 91.88817, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1988764041
 MonoBehaviour:
@@ -74029,7 +73631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -74381,136 +73983,6 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
---- !u!1 &2002761336
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2002761337}
-  - component: {fileID: 2002761340}
-  - component: {fileID: 2002761339}
-  - component: {fileID: 2002761338}
-  m_Layer: 5
-  m_Name: Ota
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &2002761337
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2002761336}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1584707586}
-  m_Father: {fileID: 632660712}
-  m_RootOrder: 89
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 352.2, y: 310.13}
-  m_SizeDelta: {x: 54.901672, y: 49.50737}
-  m_Pivot: {x: 0.5407867, y: 0.5}
---- !u!114 &2002761338
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2002761336}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_SelectedTrigger: Highlighted
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 2002761339}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1729683826}
-        m_MethodName: otaCode
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!114 &2002761339
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2002761336}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300098, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &2002761340
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2002761336}
-  m_CullTransparentMesh: 0
 --- !u!1 &2015963359
 GameObject:
   m_ObjectHideFlags: 0
@@ -74704,8 +74176,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -206.84, y: -115.3}
-  m_SizeDelta: {x: 413.6867, y: 18}
+  m_AnchoredPosition: {x: -304.5, y: -35.8}
+  m_SizeDelta: {x: 15.955711, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2024222369
 MonoBehaviour:
@@ -74784,7 +74256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -74842,8 +74314,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.112976, y: 18.123993}
-  m_SizeDelta: {x: -148.47443, y: -314.36542}
+  m_AnchoredPosition: {x: -5, y: 42}
+  m_SizeDelta: {x: -134, y: -266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2032494375
 MonoBehaviour:
@@ -74869,7 +74341,7 @@ MonoBehaviour:
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -74877,19 +74349,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"app_main.h\"\n#include \"wifi_me.h\" //lib wifi_me.h\r\n\r\nstatic
-    const char *TAG = \"MAIN\";\r\n\r\nTaskHandle_t xvTaskSensors, xvTaskFechaJanHandle;\r\nvoid
-    vTaskFechaJan(void *pvParameter);\r\nvoid vTaskSensors(void *pvParameter);\n\nvoid
-    app_main(void)\r\n{\r\n                                         //fun\xE7\xE3o
-    para iniciar o motor\n    wifi_start();\n    mqtt_app_start();\n    sensor_chuva_init();                             
-    \n    xTaskCreate(vTaskSensors, \"taskSensors\", configMINIMAL_STACK_SIZE+9000,
-    NULL, CONFIG_TASK_PRIO_VERY_LOW, &xTaskSensorsHandle);  \r\nxTaskCreate(vTaskFechaJan,
-    \"taskMotor\", configMINIMAL_STACK_SIZE+9000, NULL, CONFIG_TASK_PRIO_VERY_LOW,
-    &xvTaskFechaJanHandle); \n\r\n}\r\nvoid vTaskFechaJan(void *pvParameter){\r\n   
-    while (1)\r\n    {\r\n         if (                                                     
-    ){ //fa\xE7a o teste se esta com chuva\n                                                                  
-    //ligue o motor\n                                                                  
-    //desligue o motor\n         }\n    }\r\n\r}\r\n"
+  m_Text: "#include \"main.h\"\r\n[TaskHandle_t] xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
+    vTaskSensors(void *pvParameter);\r\nvoid [vTaskOutput](void *pvParameter);\r\nstatic
+    uint8_t valUmid;\r\nvoid app_main(void){\r\n    bth_start();                    
+    \r\n\tsensorUmd_init();\t\r\n\tirrig_init();\t\t\r\n    [xTaskCreate](vTaskSensors,
+    \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &xTaskSensorsHandle); \r\n    [xTaskCreate](vTaskOutput, \"taskOutput\", configMINIMAL_STACK_SIZE+[512],
+    \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &vTaskOutput); \t\t\t\t\r\n}\r\nvoid
+    vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\tvalUmid = sensorUmid_meas();\r\n       
+    bthPub_val(\"umdPlanta\", valUmd);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n   
+    }\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n        if(valUmd
+    < 40){\r\n\t\t\tirrigSet_state(true);\r\n\t\t}else{\r\n\t\t\tirrigSet_state(off);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*5);\r\n   
+    }\r\n}"
 --- !u!222 &2032494376
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -75059,7 +74530,7 @@ RectTransform:
   m_LocalScale: {x: 0.87219, y: 0.87219, z: 0.9691}
   m_Children: []
   m_Father: {fileID: 632660712}
-  m_RootOrder: 90
+  m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -75428,8 +74899,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289.83, y: -115.000015}
-  m_SizeDelta: {x: 213.40903, y: 18}
+  m_AnchoredPosition: {x: -268.57, y: -2.7}
+  m_SizeDelta: {x: 148.2089, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2112049840
 MonoBehaviour:
@@ -75508,7 +74979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -75725,8 +75196,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -362.14, y: 61.9}
-  m_SizeDelta: {x: 147.65863, y: 18}
+  m_AnchoredPosition: {x: -338.9, y: 237}
+  m_SizeDelta: {x: 56.69757, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2120205944
 MonoBehaviour:
@@ -75805,7 +75276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.23137255}
+  m_Color: {r: 0.3764706, g: 0.3764706, b: 0.3764706, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:

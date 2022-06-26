@@ -31,18 +31,18 @@ public class Missao : MonoBehaviour {
     void Start () {
         objetivo = 0;
         Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa, por wifi.");
-        Mis.Add("Projeto 1 - V1\nCom ajuda de um motor feche as janelas quando chover.");
+        Mis.Add("Projeto 1 - V1\nFeche as janelas quando chover.");
         Mis.Add("Projeto 2 - V0\nMonitore a umidade do solo das flores, por bluetooth.");
-        Mis.Add("Projeto 2 - V1\nCom ajuda do irrigador, regue as plantas quando a umidade estiver abaixo do esperado.");
-        Mis.Add("Projeto 2 - V2\nAs plantas estão secas, altere a umidade do solo para 10% abaixo para molhar.");
+        Mis.Add("Projeto 2 - V1\nCom ajuda da bomba de irrigação, regue as plantas quando necessário.");
+        Mis.Add("Projeto 2 - V2\nAs plantas estão secas, altere a rega para quando a umidade do solo estiver abaixo de 70%");
         Mis.Add("Projeto 3 - V0\nMonitore a corrente elétrica do ar condicionado, por bluetooth.");
-        Mis.Add("Projeto 3 - V1\nMonitore a temperatura e umidade da casa.");
+        Mis.Add("Projeto 3 - V1\nMonitore a temperatura e umidade da casa, por bluetooth.");
         Mis.Add("Projeto 3 - V2\nDesligue o ar condicionado quando estiver ligado sem necessidade.");
-        Mis.Add("Projeto 4 - V0\nLigue o alimentador do cachorro as 8h e às 17h, por wifi.");
+        Mis.Add("Projeto 4 - V0\nLigue o alimentador do cachorro às 8h e às 17h. Avise por wifi.");
         Mis.Add("Projeto 4 - V1\nPrepare um café às 7h, ligando a cafeteira.");
-        Mis.Add("Projeto 4 - V2\nAgende um alerta sonoro às 7h30.");
+        Mis.Add("Projeto 4 - V2\nAgende um alerta sonoro, por 5min, às 7h30. Avise por wifi.");
         Mis.Add("Projeto 4 - V3\nAltere a alimentação do projeto para bateria e mude a conectividade para bluetooth.");
-        Mis.Add("Projeto 5 - V0\nUsando controle de voz, ligue e desligue as lâmpadas, por wifi.");
+        Mis.Add("Projeto 5 - V0\nUsando controle de voz, ligue e desligue as lâmpadas. Avise por wifi.");
 
     }
 
@@ -114,7 +114,7 @@ public class Missao : MonoBehaviour {
         SomGeral = vitoriaSom.GetComponent<AudioSource>();
         SomGeral.Play();
         img.gameObject.SetActive(true);
-        missoes.text = "Prarabéns!! Você concluiu todas as missões!!";
+        missoes.text = "Parabéns!! Você concluiu todas as missões!!";
 
     }
 }

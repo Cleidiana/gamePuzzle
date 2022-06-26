@@ -27,7 +27,7 @@ public class TimeUI : MonoBehaviour {
         TimeMis.Add(30.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(60.0f);
-        TimeMis.Add(60.0f);
+        TimeMis.Add(10.0f);
         TimeMis.Add(30.0f);
         TimeMis.Add(30.0f);
         TimeMis.Add(30.0f);
@@ -35,7 +35,7 @@ public class TimeUI : MonoBehaviour {
         TimeMis.Add(60.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(90.0f);
-        TimeMis.Add(30.0f);
+        TimeMis.Add(90.0f);
         displayCont.text = "";
         fundoTime.SetActive(false);
     }

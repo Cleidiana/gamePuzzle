@@ -45,7 +45,7 @@ public class interacaoInv : MonoBehaviour
         }
         else if (aux == 5)
         {
-            textoLegenda.GetComponent<Text>().text = "Sensor de temperatura e humidade(DHT11) \n\n";
+            textoLegenda.GetComponent<Text>().text = "Sensor de temperatura e humidade(DHT22) \n\n";
         }
         else if (aux == 6)
         {

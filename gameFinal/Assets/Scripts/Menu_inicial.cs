@@ -20,8 +20,8 @@ public class Menu_inicial : MonoBehaviour {
     {
         Application.Quit();
     }
-    private const string UriString = "https://drive.google.com/uc?export=download&id=1hoY8S4woiHc46_1U8bUAHxZ2D0-wM6oy";
-    private const string fileDownload = "Manual.txt";
+    private const string UriString = "https://drive.google.com/uc?export=download&id=1QzbzfPLdMUVpOHC8LjZzCL8-Xk1bHC2V";
+    private const string fileDownload = "Desafio_IoT.pdf";
 
     public void Download()
     {

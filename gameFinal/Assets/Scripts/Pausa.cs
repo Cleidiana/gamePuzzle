@@ -19,12 +19,14 @@ public class Pausa : MonoBehaviour {
         if (Input.GetKey(KeyCode.Escape)) {
             TimeUI.instance.onPause(true);
             MenuPausado.SetActive(true);
- 
+            Missao.instance.playPensar(true);
+
+
         }
     }
 
-    private const string UriString = "https://drive.google.com/uc?export=download&id=1hoY8S4woiHc46_1U8bUAHxZ2D0-wM6oy";
-    private const string fileDownload = "Manual.txt";
+    private const string UriString = "https://drive.google.com/uc?export=download&id=1QzbzfPLdMUVpOHC8LjZzCL8-Xk1bHC2V";
+    private const string fileDownload = "Desafio_IoT.pdf";
 
     public void PegarManual()
     {
@@ -45,7 +47,7 @@ public class Pausa : MonoBehaviour {
     {
         TimeUI.instance.onPause(false);
         MenuPausado.SetActive(false);
+        Missao.instance.playPensar(false);
     }
-
-
+    
 }

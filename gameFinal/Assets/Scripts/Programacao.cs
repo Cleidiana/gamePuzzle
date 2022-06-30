@@ -742,7 +742,7 @@ public class Programacao : MonoBehaviour {
             if (code == "valRTC_min;")
             {
                 code = Prog11_txtInp2.GetComponent<Text>().text;
-                if (code == "Buzzer_init();")
+                if (code == "buzzer_init();")
                 {
                     code = Prog11_txtInp3.GetComponent<Text>().text;
                     if (code == "buzzerSet_state")

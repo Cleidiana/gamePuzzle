@@ -1349,7 +1349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &54350814
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3330,7 +3330,7 @@ MonoBehaviour:
     vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
     uint8_t valRTC_hr, [valRTC_min;]\r\n\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\",
     \"ronaldo12345\");                                 \r\n    mqtt_start();                   
-    \r\n\tRTC_init();\t\r\n\trele_init();\t\r\n    [Buzzer_init();]\t\r\n    xTaskCreate(vTaskOutput,
+    \r\n\tRTC_init();\t\r\n\trele_init();\t\r\n    [buzzer_init();]\t\r\n    xTaskCreate(vTaskOutput,
     \"taskOutput\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
     &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
     (1){\r\n\t\tvalRTC_hr = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n\t\tif((valRTC_hr
@@ -3420,7 +3420,7 @@ MonoBehaviour:
   m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
     vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
     uint8_t valRTC_hr, valRTC_min;\r\nvoid app_main(void){\r\n    [ble_start();]                  
-    \r\n\tRTC_init();\t\r\n\tBuzzer_init();\r\n\trele_init();\t\t\r\n    xTaskCreate(vTaskOutput,
+    \r\n\tRTC_init();\t\r\n\tbuzzer_init();\r\n\trele_init();\t\t\r\n    xTaskCreate(vTaskOutput,
     \"taskOutput\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
     &vTaskOutput); \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while
     (1){\r\n\t\tvalRTC_hr = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n       
@@ -32802,7 +32802,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.5294995
+      m_AnimationSpeed: 2.9686182
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -46016,15 +46016,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle, xTaskOutputHandle;\r\nvoid
-    vTaskSensors(void *pvParameter);\r\nvoid vTaskOutput(void *pvParameter);\r\nstatic
-    uint8_t valChuva;\r\n\r\nvoid app_main(void){\r\n    wifi_start(\"Ronaldo\",
-    \"ronaldo12345\");                                 \r\n    mqtt_start();                   
-    \r\n\tsensorChuva_init();\t\r\n    xTaskCreate(vTaskSensors, \"taskSensors\",
-    configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &[xTaskSensorsHandle]);
-    \t\t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\t[valChuva]
-    = [sensorChuva]_meas();\r\n        mqttPub_val(\"chuva\", [valChuva]);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[600]);\r\n   
-    }\r\n}"
+  m_Text: "#include \"main.h\"\r\nTaskHandle_t xTaskSensorsHandle;\nvoid vTaskSensors(void
+    *pvParameter);\r\nstatic uint8_t valChuva;\r\n\r\nvoid app_main(void){\r\n   
+    wifi_start(\"Ronaldo\", \"ronaldo12345\");                                 \r\n   
+    mqtt_start();                    \r\n\tsensorChuva_init();\t\r\n    xTaskCreate(vTaskSensors,
+    \"taskSensors\", configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW,
+    &[xTaskSensorsHandle]); \t\t\r\n}\r\nvoid vTaskSensors(void *pvParameter){\r\n   
+    while (1){\r\n\t\t[valChuva] = [sensorChuva]_meas();\r\n        mqttPub_val(\"chuva\",
+    [valChuva]);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[600]);\r\n    }\r\n}"
 --- !u!222 &497080192
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53449,7 +53448,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.5231977
+      m_AnimationSpeed: 2.3636374
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -55961,7 +55960,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.6471412
+      m_AnimationSpeed: 2.3017259
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -56136,7 +56135,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.7155373
+      m_AnimationSpeed: 2.9696465
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -56373,7 +56372,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.2791617
+      m_AnimationSpeed: 2.8963988
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -57785,7 +57784,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -384.99, y: 43.9}
+  m_AnchoredPosition: {x: -384.99, y: 61.19999}
   m_SizeDelta: {x: 66.331726, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &906394240
@@ -58599,7 +58598,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.8111823
+      m_AnimationSpeed: 2.8104608
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -58968,7 +58967,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.5684743
+      m_AnimationSpeed: 2.3314896
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59221,7 +59220,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.6322474
+      m_AnimationSpeed: 2.9261143
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -59474,7 +59473,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.1733785
+      m_AnimationSpeed: 2.9580896
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -61389,7 +61388,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1101318610
 RectTransform:
   m_ObjectHideFlags: 0
@@ -62461,7 +62460,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -287.84, y: 43.9}
+  m_AnchoredPosition: {x: -287.84, y: 61.19999}
   m_SizeDelta: {x: 92.3616, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1191526591
@@ -65072,7 +65071,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -245.40997, y: 27.41}
+  m_AnchoredPosition: {x: -245.40997, y: 44.709988}
   m_SizeDelta: {x: 68.27103, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1335577154
@@ -65883,7 +65882,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -164.20999, y: 13.346008}
+  m_AnchoredPosition: {x: -164.20999, y: 30.645996}
   m_SizeDelta: {x: 32.19223, y: 18}
   m_Pivot: {x: 0.4636554, y: 0.5624003}
 --- !u!1 &1405274175
@@ -66342,8 +66341,8 @@ MonoBehaviour:
     configMINIMAL_STACK_SIZE+256, \r\n\t\t\t\tNULL, CONFIG_TASK_PRIO_VERY_LOW, &vTaskOutput);
     \t\t\t\t\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n\t\tvalRTC_hr
     = RTCGet_hr();\r\n\t\tvalRTC_min = RTCGet_min();\r\n        if(((valRTC_hr ==
-    8) && [(valRTC_min == 0)]) || \r\n\t\t\t((valRTC_hr == 17) && [(valRTC_min ==
-    0)]){\r\n\t\t\treleSet_state([2], 1, 5);\r\n\t\t\tmqttPub_val(\"racao\", 1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[120]);\r\n   
+    8) && (valRTC_min == 0)) || \r\n\t\t\t((valRTC_hr == 17) && (valRTC_min == 0)){\r\n\t\t\treleSet_state([2],
+    1, 5);\r\n\t\t\tmqttPub_val(\"racao\", 1);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*[120]);\r\n   
     }\r\n}"
 --- !u!222 &1453018220
 CanvasRenderer:
@@ -66896,7 +66895,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.0833583
+      m_AnimationSpeed: 2.3554068
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -67446,7 +67445,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.3174567
+      m_AnimationSpeed: 2.7406116
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -67621,7 +67620,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.6264257
+      m_AnimationSpeed: 2.9464576
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -69082,7 +69081,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300040, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
       - {fileID: 21300042, guid: c8b6d5ce228d4e04384741057fa76050, type: 3}
-      m_AnimationSpeed: 2.0017433
+      m_AnimationSpeed: 2.7972054
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -73408,7 +73407,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -27.1, y: 108}
+  m_AnchoredPosition: {x: -27.1, y: 125.3}
   m_SizeDelta: {x: 141.41614, y: 18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1985139650
@@ -74357,7 +74356,7 @@ MonoBehaviour:
     vTaskSensors(void *pvParameter){\r\n    while (1){\r\n\t\tvalUmid = sensorUmid_meas();\r\n       
     bthPub_val(\"umdPlanta\", valUmd);\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*600);\r\n   
     }\r\n}\r\nvoid vTaskOutput(void *pvParameter){\r\n    while (1){\r\n        if(valUmd
-    < 40){\r\n\t\t\tirrigSet_state(true);\r\n\t\t}else{\r\n\t\t\tirrigSet_state(off);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*5);\r\n   
+    < 40){\r\n\t\t\tirrigSet_state(true);\r\n\t\t}else{\r\n\t\t\tirrigSet_state(false);\r\n\t\t}\r\n\t\tvTaskDelay(pdMS_TO_TICKS(1000)*5);\r\n   
     }\r\n}"
 --- !u!222 &2032494376
 CanvasRenderer:

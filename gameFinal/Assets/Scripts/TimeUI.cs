@@ -95,7 +95,6 @@ public class TimeUI : MonoBehaviour {
     public void onPause(bool state)
     {
         isPausado = state;
-        Missao.instance.playPensar(isPausado);
-        
+
     }
 }

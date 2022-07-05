@@ -24,13 +24,13 @@ public class TimeUI : MonoBehaviour {
     // Use this for initialization
     void Start () {
         TimeMis.Add(60.0f);
-        TimeMis.Add(30.0f);
+        TimeMis.Add(45.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(10.0f);
-        TimeMis.Add(30.0f);
-        TimeMis.Add(30.0f);
-        TimeMis.Add(30.0f);
+        TimeMis.Add(45.0f);
+        TimeMis.Add(45.0f);
+        TimeMis.Add(45.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(60.0f);
         TimeMis.Add(60.0f);

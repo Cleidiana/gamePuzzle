@@ -74,13 +74,6 @@ public class Movimento_personagem : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("eletrico"))
-        {
-            StartCoroutine(funcKnock(1f, 50, direcaoPlayer));
-        }
-    }
     public IEnumerator funcKnock(float duracao, float poder, Vector2 direcao)
     {
         float tempo = 0;

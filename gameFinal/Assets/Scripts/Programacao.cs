@@ -247,7 +247,7 @@ public class Programacao : MonoBehaviour {
         
     }
     private void missaoConcluida() {
-        textoOut.GetComponent<Text>().text = "OK, procure a proxima missão";
+        textoOut.GetComponent<Text>().text = "OK, procure a próxima missão";
         Missao.instance.setObs(0);
         limpaHWs();
         InventarioSlot.instance.DisableHW();
@@ -365,7 +365,7 @@ public class Programacao : MonoBehaviour {
                 if (code == "sensorUmd")
                 {
                     code = Prog3_txtInp3.GetComponent<Text>().text;
-                    if (code == "sensorUmid")
+                    if (code == "sensorUmd")
                     {
                         code = Prog3_txtInp4.GetComponent<Text>().text;
                         if (code == "bthPub")
@@ -825,19 +825,19 @@ public class Programacao : MonoBehaviour {
         if (Missao.instance.getObs() == 13)
         {
             code = Prog13_txtInp1.GetComponent<Text>().text;
-            if (code == "xTaskSensorsHandle")
+            if (code == "valMicro")
             {
                 code = Prog13_txtInp2.GetComponent<Text>().text;
-                if (code == "valChuva")
+                if (code == "4")
                 {
                     code = Prog13_txtInp3.GetComponent<Text>().text;
-                    if (code == "sensorChuva")
+                    if (code == "valMicro")
                     {
                         code = Prog13_txtInp4.GetComponent<Text>().text;
-                        if (code == "valChuva")
+                        if (code == "4")
                         {
                             code = Prog13_txtInp5.GetComponent<Text>().text;
-                            if (code == "600")
+                            if (code == "5")
                             {
                                 missaoConcluida();
                                 tileN5.SetActive(false);

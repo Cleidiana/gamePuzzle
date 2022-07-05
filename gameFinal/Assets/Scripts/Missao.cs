@@ -30,19 +30,19 @@ public class Missao : MonoBehaviour {
     // Use this for initialization
     void Start () {
         objetivo = 0;
-        Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa, por Wi-fi.");
+        Mis.Add("Projeto 1 - V0\nMonitore a presença de chuva na casa,\npor Wi-fi.");
         Mis.Add("Projeto 1 - V1\nFeche as janelas quando chover.");
-        Mis.Add("Projeto 2 - V0\nMonitore a umidade do solo das flores, por Bluetooth.");
-        Mis.Add("Projeto 2 - V1\nCom ajuda da bomba de irrigação, regue as plantas quando necessário.");
-        Mis.Add("Projeto 2 - V2\nAs plantas estão secas, altere a rega para quando a umidade do solo estiver abaixo de 70%");
-        Mis.Add("Projeto 3 - V0\nMonitore a corrente elétrica do ar condicionado, por Bluetooth.");
-        Mis.Add("Projeto 3 - V1\nMonitore a temperatura e umidade da casa, por Bluetooth.");
-        Mis.Add("Projeto 3 - V2\nDesligue o ar condicionado quando estiver ligado sem necessidade.");
-        Mis.Add("Projeto 4 - V0\nLigue o alimentador do cachorro às 8h e às 17h. Avise por Wi-fi.");
-        Mis.Add("Projeto 4 - V1\nPrepare um café às 7h, ligando a cafeteira.");
-        Mis.Add("Projeto 4 - V2\nAgende um alerta sonoro, por 5min, às 7h30. Avise por Wi-fi.");
-        Mis.Add("Projeto 4 - V3\nAltere a alimentação do projeto para bateria e mude a conectividade para Bluetooth.");
-        Mis.Add("Projeto 5 - Usando controle de voz, ligue e desligue as lâmpadas. Avise por Wi-fi.");
+        Mis.Add("Projeto 2 - V0\nMonitore a umidade do solo das flores,\npor Bluetooth.");
+        Mis.Add("Projeto 2 - V1\nCom ajuda da bomba de irrigação, \nregue as plantas quando necessário.");
+        Mis.Add("Projeto 2 - V2\nAs plantas estão secas, altere a rega para\nquando a umidade do solo estiver abaixo de 70%");
+        Mis.Add("Projeto 3 - V0\nMonitore a corrente elétrica do ar condicionado,\npor Bluetooth.");
+        Mis.Add("Projeto 3 - V1\nMonitore a temperatura e umidade da casa,\npor Bluetooth.");
+        Mis.Add("Projeto 3 - V2\nDesligue o ar condicionado quando estiver ligado\n sem necessidade.");
+        Mis.Add("Projeto 4 - V0\nLigue o alimentador do cachorro às 8h e às 17h.\nAvise por Wi-fi.");
+        Mis.Add("Projeto 4 - V1\nPrepare um café às 7h, ligando a cafeteira.\nAvise por Wi-fi.");
+        Mis.Add("Projeto 4 - V2\nAgende um alerta sonoro, por 5min, às 7h30.\nAvise por Wi-fi.");
+        Mis.Add("Projeto 4 - V3\nAltere a alimentação do projeto para bateria e \nmude a conectividade para Bluetooth.");
+        Mis.Add("Projeto 5 - Usando controle de voz, ligue e desligue as lâmpadas.\nAvise por Wi-fi.");
 
     }
 

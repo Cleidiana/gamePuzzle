@@ -5,15 +5,20 @@ using System.Net;
 using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Menu_inicial : MonoBehaviour {
 
     public string nomeDaCena;
     public AudioSource SomMenu;
-
+    public Text downloaded;
+    
     public void MudaCena() {
-        SceneManager.LoadScene(nomeDaCena);
+        downloaded.gameObject.SetActive(false);
+        downloaded.text = "";
         SomMenu.Stop();
+        SceneManager.LoadScene(nomeDaCena);
+        
     }
 
     public void Sair()
@@ -33,6 +38,9 @@ public class Menu_inicial : MonoBehaviour {
     }
     private void DownloadTerminou(object sender, DownloadDataCompletedEventArgs e)
     {
+        downloaded.gameObject.SetActive(true);
+        downloaded.text = "Download terminado!";
+        
         File.WriteAllBytes(fileDownload, e.Result);
     }
 }

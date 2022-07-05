@@ -5,12 +5,16 @@ using System;
 using System.Net;
 using System.IO;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Pausa : MonoBehaviour {
     public GameObject MenuPausado;
-
+    public Text downloaded;
+    public Image downloadedImg;
     void Awake() {
-
+        downloaded.gameObject.SetActive(false);
+        downloadedImg.gameObject.SetActive(false);
+        downloaded.text = "";
         MenuPausado.SetActive(false);
     }
 
@@ -37,6 +41,10 @@ public class Pausa : MonoBehaviour {
     }
     private void DownloadTerminou(object sender, DownloadDataCompletedEventArgs e)
     {
+        downloaded.gameObject.SetActive(true);
+        downloadedImg.gameObject.SetActive(true);
+        downloaded.text = "Download terminado!";
+        Debug.Log("feeeez");
         File.WriteAllBytes(fileDownload, e.Result);
     }
 
@@ -45,6 +53,9 @@ public class Pausa : MonoBehaviour {
     }
     public void voltarJogo()
     {
+        downloaded.gameObject.SetActive(false);
+        downloadedImg.gameObject.SetActive(false);
+        downloaded.text = "";
         TimeUI.instance.onPause(false);
         MenuPausado.SetActive(false);
         Missao.instance.playPensar(false);
